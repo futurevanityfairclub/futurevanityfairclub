@@ -15,10 +15,12 @@ Future Vanity Fair Club is a digital world built around Vani NFTs, Future Glam, 
 - Instagram: https://www.instagram.com/future_vanity/
 - Threads: https://www.threads.com/@future_vanity
 - Bluesky: https://bsky.app/profile/futurevanity.bsky.social
+- GitHub: https://github.com/futurevanityfairclub
 - Pinterest: https://www.pinterest.com/futurevanity/
 - Discord: https://discord.gg/Dwpk2vXpZD
 - Telegram: https://t.me/FutureVanityFairClub
 - Reddit: https://www.reddit.com/r/futurevanityfairclub/
+- Substack: https://substack.com/@futurevanity
 - Medium: https://medium.com/@futurevanity
 - Facebook: https://www.facebook.com/people/Future-Vanity-Fair-Club/61583735787299/
 - TikTok: https://www.tiktok.com/@future_vanity
