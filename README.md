@@ -8,7 +8,7 @@ FVFC's long-term roadmap envisions an open Living IP economy where 10,000 Vani b
 
 ## Infrastructure Roadmap
 
-The website presents FVFC through five planned conceptual layers. The live mint currently covers Vani's Visual Layer as static ERC-721 artwork; advanced persona, agent, IP, economy, and governance layers are roadmap components and may evolve as the architecture develops. The diagram below describes conceptual areas, not a strict development order.
+The website presents FVFC through five planned conceptual layers. The live mint currently covers Vani's Visual Layer as static ERC-721 artwork; programmable persona, agent, IP, economy, and governance layers are roadmap components and may evolve as the architecture develops. The diagram below describes conceptual areas, not a strict development order.
 
 ```mermaid
 graph TD
