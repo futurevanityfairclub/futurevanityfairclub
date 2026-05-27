@@ -19,7 +19,7 @@ graph TD
 ```
 
 - **Visual Layer**: ERC-721. Vani's foundational art layer, built from 879 hand-drawn traits through algorithmic generation and human refinement.
-- **Agent Layer**: AI agents. Programmable systems that help Vani act, create, and evolve beyond a static asset.
+- **Agent Layer**: AI agents. These agents bring Vani to life with distinct personality and talents. They empower her to act autonomously, create value, and evolve far beyond a static asset.
 - **IP Layer**: Story Protocol. Infrastructure for programmable creative rights, IP licensing, derivatives, and royalty flows.
 - **Economy Layer**: ERC-8004, x402, and ERC-8183. Standards for identity, permissions, payments, coordination, creator contributions, and IP-based rewards.
 - **Governance Layer**: ERC-20. The future token layer for value exchange, contributor incentives, and decentralized governance participation.
