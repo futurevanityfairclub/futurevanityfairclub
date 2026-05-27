@@ -4,7 +4,7 @@ Official public profile for **Future Vanity Fair Club (FVFC)**.
 
 Future Vanity Fair Club is a digital world built around Vani NFTs, Future Glam, autonomous IP, and crypto-native creative infrastructure.
 
-FVFC is being designed as more than a collectible project. Its long-term roadmap envisions an open Living IP economy where 10,000 Vani begin as ERC-721 visual identities and gradually evolve toward programmable personas, AI agents, IP licensing, and onchain contribution proofs.
+FVFC's long-term roadmap envisions an open Living IP economy where 10,000 Vani begin as ERC-721 visual identities and gradually evolve toward programmable personas, AI agents, IP licensing, and onchain contribution proofs.
 
 ## Infrastructure Roadmap
 
