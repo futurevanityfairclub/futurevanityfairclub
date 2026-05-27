@@ -8,14 +8,16 @@ FVFC is being designed as more than a collectible project. Its long-term roadmap
 
 ## Infrastructure Roadmap
 
-The website presents FVFC through five planned operational layers. The live mint currently covers Vani's Visual Layer as static ERC-721 artwork; advanced persona, agent, IP, economy, and governance layers are roadmap components and may evolve as the architecture develops.
+The website presents FVFC through five planned conceptual layers. The live mint currently covers Vani's Visual Layer as static ERC-721 artwork; advanced persona, agent, IP, economy, and governance layers are roadmap components and may evolve as the architecture develops. The diagram below describes conceptual areas, not a strict development order.
 
 ```mermaid
 graph TD
-    A[Visual Layer: ERC-721] --> B[Agent Layer: AI Agents]
-    B --> C[IP Layer: Story Protocol]
-    C --> D[Economy Layer: ERC-8004, x402, ERC-8183]
-    D --> E[Governance Layer: ERC-20]
+    FVFC[Future Vanity Fair Club]
+    FVFC --- A[Visual Layer: ERC-721]
+    FVFC --- B[Agent Layer: AI Agents]
+    FVFC --- C[IP Layer: Story Protocol]
+    FVFC --- D[Economy Layer: ERC-8004, x402, ERC-8183]
+    FVFC --- E[Governance Layer: ERC-20]
 ```
 
 - **Visual Layer**: ERC-721. Vani's foundational art layer, built from 879 hand-drawn traits through algorithmic generation and human refinement.
