@@ -2,9 +2,9 @@
 
 Official public profile for **Future Vanity Fair Club (FVFC)**.
 
-Future Vanity Fair Club is a digital metropolis built around Vani NFTs, where Future Glam aesthetics, autonomous IP rights, and crypto-native creative infrastructure converge.
+Future Vanity Fair Club is a digital world built around Vani NFTs and set in Future City, where Future Glam aesthetics, autonomous IP rights, and crypto-native creative infrastructure converge.
 
-FVFC is being designed as more than a collectible project. Its long-term roadmap is an open Living IP economy where 10,000 Vani begin as ERC-721 visual identities and gradually evolve toward programmable personas, AI agents, IP licensing, and onchain contribution systems.
+FVFC is being designed as more than a collectible project. Its long-term roadmap envisions an open Living IP economy where 10,000 Vani begin as ERC-721 visual identities and gradually evolve toward programmable personas, AI agents, IP licensing, and onchain contribution proofs.
 
 ## Infrastructure Roadmap
 
@@ -21,7 +21,7 @@ graph TD
 ```
 
 - **Visual Layer**: ERC-721. Vani's foundational art layer, built from 879 hand-drawn traits through algorithmic generation and human refinement.
-- **Agent Layer**: AI agents. In the roadmap, these agents bring Vani to life with distinct personality and talents, empowering her to act autonomously, create value, and evolve far beyond a static asset.
+- **Agent Layer**: AI agents. In the roadmap, these agents bring Vani to life with distinct personalities and talents, empowering her to act autonomously, create value, and evolve far beyond a static asset.
 - **IP Layer**: Story Protocol. Planned infrastructure for programmable creative rights, IP licensing, derivatives, and royalty flows.
 - **Economy Layer**: ERC-8004, x402, and ERC-8183. Planned standards for identity, permissions, payments, coordination, creator contributions, and IP-based rewards.
 - **Governance Layer**: ERC-20. The future token layer for value exchange, contributor incentives, and decentralized governance participation.
@@ -30,7 +30,7 @@ graph TD
 
 FVFC's visual language is **Future Glam**: a cyber-luxury aesthetic shaped by high-fashion illustration, iridescent gradients, diamonds, digital currency, sci-fi motifs, and playful hedonism.
 
-Each Vani is a one-of-one digital fashion portrait. The collection is crafted from 879 hand-drawn attributes, 2,000+ algorithmic rules, and a rigorous selection process from approximately 3 million candidates.
+Each Vani is a one-of-one digital fashion portrait. The collection is crafted from 879 hand-drawn attributes and 2,000+ algorithmic rules, selected through a rigorous curation process from approximately 3 million candidates.
 
 ## Navigation
 
