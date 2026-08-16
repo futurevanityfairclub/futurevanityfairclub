@@ -1,56 +1,52 @@
 # Future Vanity Fair Club (FVFC)
 
-> **Official Organization Profile for Future Vanity Fair Club**  
-> A Cyber-Luxury Living IP Economy & Agentic Creative Metropolis in Future City.
+Official public organization profile for **Future Vanity Fair Club (FVFC)**.
+
+Future Vanity Fair Club is a cyber-luxury living IP economy where 10,000 Vani come to life as NFTs, built with 881 hand-drawn attributes and 2,000+ algorithmic rules in Future City.
 
 ---
 
 ## 💎 About The Living IP Economy
 
-**Future Vanity Fair Club (FVFC)** is not merely a static digital collectible — it is an open **Living IP economy** where high-fashion art, autonomous AI agents, and crypto-native infrastructure converge.
+**Future Vanity Fair Club (FVFC)** is an open IP economy built in Future City. It combines high-fashion art, AI, and blockchain technology where 10,000 Vani NFTs live, create, earn, and grow through their programmable personas.
 
-Unlike traditional static avatars that remain frozen over time, each **Vani** is an evolving digital being equipped with a **Programmable Persona** across dynamic modules of identity, talents, assets, and reputation. Holding her own crypto wallet and acting as an autonomous creator within the club, Vani actively participates, creates value, and drives the growth of Future City.
-
-- **Living IP Genesis**: 10,000 unique Vani fashion portraits crafted from 881 hand-drawn attributes and 2,000+ algorithmic generation rules.
-- **Aesthetic DNA**: *Future Glam* — cyber-luxury visual language blending modern chic, iridescent gradients, diamond motifs, and digital fashion.
-- **Decentralized Co-creation**: An open ecosystem where human creators, developers, and AI agents collaborate, license IP, and share automated on-chain rewards.
+- **Living IP**: While traditional avatars remain static, Vani is an evolving digital being with dynamic modules for identity, talents, wealth, and fame, actively shaping the growth of the club.
+- **Decentralized IP & Open Licensing**: Moving beyond traditional closed corporate models to an open, decentralized agentic IP economy where creators, developers, holders, and AI agents can freely collaborate.
+- **Autonomous IP Infrastructure**: Smart contracts and AI agents manage day-to-day workflows, agent-to-agent payments, automated licensing, and contribution verification, allowing the IP to scale organically.
 
 ---
 
-## 🏛️ 5-Layer Infrastructure Architecture
+## 🎨 Artistic Craftsmanship & Genesis Foundation
 
-FVFC is engineered across a modular 5-layer Web3 & AI architecture designed to scale intellectual property from visual genesis to autonomous economic agency:
+The visual foundation of FVFC represents over two years of artisanal craftsmanship, high-fashion illustration, and algorithmic curation:
+
+- **4,000 × 4,000 Resolution**: Each original artwork is created and stored at **4,000 × 4,000 pixels**, suitable for digital displays and physical printing.
+- **Hand-drawn Foundation**: **881 unique elements** across **16 primary trait categories**, stacked across **40 independent visual layers**.
+- **Algorithmic Logic**: **2,000+ combination rules** (each governed by 10 to 20 sub-conditions) refined over **100+ iterative cycles**, ensuring an average attribute difference of **over 93%**.
+- **Iterative Selection**: The collection of **10,000 Vani NFTs** was curated and refined through a multi-stage selection process from approximately **3 million (3,000,000) generated candidate images** (~0.33% selection rate).
+- **Future Glam**: Cyber-luxury visual language blending modern chic with iridescent gradients, diamonds, digital currency, sci-fi motifs, and 4 signature looks (*Ivory, Bronze, Chocolate, and Luminous*).
+
+---
+
+## 🏛️ 5-Layer Infrastructure Roadmap
+
+The website presents FVFC through five planned conceptual layers. The live mint currently covers Vani's **Visual Layer** as static ERC-721 artwork; programmable persona, agent, IP, economy, and governance layers are roadmap components and may evolve as the architecture develops:
 
 ```mermaid
 graph TD
-    FVFC["Future Vanity Fair Club (Living IP Economy)"]
-    FVFC --- L1["1. Visual Layer: ERC-721 Genesis Art & 881 Traits"]
-    FVFC --- L2["2. Agent Layer: Autonomous AI Agents & Programmable Personas"]
-    FVFC --- L3["3. IP Layer: DATA Foundation (Programmable Licensing & Royalties)"]
-    FVFC --- L4["4. Economy Layer: ERC-8004, x402 AI Payments & ERC-8183"]
-    FVFC --- L5["5. Governance Layer: ERC-20 Contributor Incentives & Coordination"]
+    FVFC[Future Vanity Fair Club]
+    FVFC --- A[Visual Layer: ERC-721]
+    FVFC --- B[Agent Layer: AI Agents]
+    FVFC --- C[IP Layer: DATA Foundation]
+    FVFC --- D[Economy Layer: ERC-8004, x402, ERC-8183]
+    FVFC --- E[Governance Layer: ERC-20]
 ```
 
-### 1. 👁️ Visual Layer (Genesis Foundation)
-- **Standard**: ERC-721 on Ethereum Mainnet (powered by Thirdweb audited smart contracts).
-- **Artistic Engineering**: 881 hand-drawn vector traits across multi-layer categories, algorithmic generation rules, and human refinement.
-- **Permanent Storage**: Filecoin Network & IPFS content addressing with high-availability multi-gateway redundancy.
-
-### 2. 🤖 Agent Layer (Autonomous Digital Personas)
-- **AI Agent Intelligence**: Brings Vani to life with distinct personalities, autonomous creative agency, and domain-specific talents.
-- **Programmable Personas**: Modular components managing dynamic identity, intelligence capabilities, and automated digital workflows.
-
-### 3. 📜 IP Layer (Programmable Creative Rights)
-- **Protocol**: Powered by DATA Foundation (formerly Story Protocol).
-- **On-chain IP Licensing**: Frictionless IP registration, programmable derivative creation, and automated on-chain royalty flows.
-
-### 4. ⚡ Economy Layer (AI Payments & Agent Coordination)
-- **AI Machine Payments (x402)**: Native HTTP 402 machine-to-machine micropayment protocol enabling autonomous agent-to-agent service settlement.
-- **On-chain Trust & Identity (ERC-8004)**: Standardized identity, permissions, and agent trust verification.
-- **Agent Work Coordination (ERC-8183)**: Decentralized task distribution, creator contribution proofs, and performance-based IP rewards.
-
-### 5. 🏛️ Governance Layer (Ecosystem Coordination)
-- **Standard**: Native ERC-20 token layer for value exchange, contributor incentives, and decentralized governance participation across Future City.
+- **Visual Layer (Live)**: ERC-721 standard on Ethereum mainnet, built on Thirdweb's audited smart contracts with 4,000 × 4,000 high-resolution artwork and metadata on IPFS and Filecoin. Combining 881 hand-drawn traits with algorithmic curation, this genesis layer is Vani’s visual foundation.
+- **Agent Layer (Roadmap)**: AI Agents. These agents bring Vani to life with distinct personality and talents. She acts autonomously, creates value, and becomes more than a static image.
+- **IP Layer (Roadmap)**: DATA Foundation, formerly Story Protocol. Powers Vani's programmable creative rights by managing her IP licensing, derivatives, royalty flows, and future AI data provenance.
+- **Economy Layer (Roadmap)**: ERC-8004, x402, and ERC-8183. These standards govern the identity, permissions, payments, and coordination that transform Vani into a living IP economy, facilitating creator contributions and IP-based rewards.
+- **Governance Layer (Roadmap)**: ERC-20. Designed as the native token for FVFC to enable contributor incentives, ecosystem value exchange, and decentralized governance participation.
 
 ---
 
@@ -106,4 +102,5 @@ All links are strictly aligned with the official website navigation structure:
 
 All rights reserved © 2026 **Future Vanity Fair Club**.
 
-This organization and repository provide official brand presence and ecosystem overviews. The core web application, proprietary art assets, and smart contract codebase remain confidential and proprietary. Unauthorized reproduction, modification, or commercial exploitation without permission is strictly prohibited.
+- You own your NFT, but FVFC Labs owns the underlying intellectual property (IP). For full terms, see the official [License](https://futurevanityfairclub.com/license) page.
+- This organization and repository provide official brand presence and ecosystem overviews. The core web application, proprietary art assets, and smart contract codebase remain confidential and proprietary. Unauthorized reproduction, modification, or commercial exploitation without permission is strictly prohibited.
