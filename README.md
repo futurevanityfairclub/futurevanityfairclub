@@ -2,7 +2,7 @@
 
 Official public organization profile for **Future Vanity Fair Club (FVFC)**.
 
-> Vani follows a distinctive aesthetic called **"Future Glam,"** a cyber-luxury look defined by iridescent gradients, diamonds, digital currency, sci-fi motifs, and a playful, hedonistic spirit. Built from 881 hand-drawn traits and over 2,000 algorithmic rules through human refinement, each Vani is crafted as one of 10,000 collectible high-fashion portraits selected from about 3 million candidates, with only about 0.33% chosen.
+> **Future Glam is FVFC’s signature visual language**, blending modern chic with cyber luxury. It features iridescent gradients, diamonds, digital currency, science fiction motifs, and a playful, hedonistic spirit. Built from 881 hand-drawn traits and over 2,000 algorithmic rules through human refinement, each Vani is crafted as one of 10,000 collectible high-fashion portraits selected from about 3 million candidates, with only about 0.33% chosen.
 
 ---
 
