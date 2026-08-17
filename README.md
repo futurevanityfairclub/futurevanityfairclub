@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://futurevanityfairclub.com/images/homepage/home-0-hero.webp" alt="Future Vanity Fair Club (FVFC)" width="100%" />
+</div>
+
 # Future Vanity Fair Club (FVFC)
 
 Official public organization profile for **Future Vanity Fair Club (FVFC)**.
@@ -30,7 +34,7 @@ The visual foundation of FVFC represents over two years of artisanal craftsmansh
 
 ---
 
-## 🏛️ 5-Layer Infrastructure Roadmap
+## 🪩 5-Layer Infrastructure Roadmap
 
 The website presents FVFC through five planned conceptual layers. The live mint currently covers Vani's **Visual Layer** as static ERC-721 artwork; programmable persona, agent, IP, economy, and governance layers are roadmap components and may evolve as the architecture develops:
 
