@@ -48,7 +48,7 @@ graph TD
     FVFC --- E[Governance Layer: ERC-20]
 ```
 
-- **Visual Layer (Live)**: ERC-721 standard on Ethereum mainnet, built on Thirdweb's audited smart contracts with 4,000 × 4,000 high-resolution artwork and metadata on IPFS and Filecoin. Combining 881 hand-drawn traits with algorithmic curation, this genesis layer is Vani’s visual foundation.
+- **Visual Layer (Live)**: ERC-721 standard on Ethereum mainnet, built on Thirdweb's audited smart contracts with 4,000 × 4,000 high-resolution artwork and metadata on IPFS and Filecoin mainnet. Combining 881 hand-drawn traits with algorithmic curation, this genesis layer is Vani’s visual foundation.
 - **Agent Layer (Roadmap)**: AI Agents. These agents bring Vani to life with distinct personality and talents. She acts autonomously, creates value, and becomes more than a static image.
 - **IP Layer (Roadmap)**: DATA Foundation, formerly Story Protocol. Powers Vani's programmable creative rights by managing her IP licensing, derivatives, royalty flows, and future AI data provenance.
 - **Economy Layer (Roadmap)**: Built on Base (Layer 2), ERC-8004, x402, and ERC-8183 govern the identity, permissions, payments, and coordination that transform Vani into a living IP economy, facilitating creator contributions and IP-based rewards.
@@ -61,7 +61,7 @@ graph TD
 - **Frontend Core**: Next.js 16 (App Router), React 19, TypeScript
 - **Styling & Motion**: Tailwind CSS, Framer Motion, Radix UI, Phosphor Icons, Lucide
 - **Web3 & Contracts**: Thirdweb SDK v5, Viem, 0xSplits Protocol (Splits Warehouse v2)
-- **Decentralized Storage**: Filecoin Network, IPFS permanent media pinning, Upstash KV / Redis
+- **Decentralized Storage**: Filecoin Network (Mainnet), IPFS, Upstash KV / Redis
 - **Reliability & Monitoring**: Automated Health & Media Probes, Checkly Synthetic Monitoring, Telegram Ops Notification Bridge
 
 ---
