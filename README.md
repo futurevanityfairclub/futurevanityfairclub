@@ -22,7 +22,7 @@ Official public organization profile for **Future Vanity Fair Club (FVFC)**.
 
 ---
 
-## 🎨 Artistic Craftsmanship & Genesis Foundation
+## ✨ Artistic Craftsmanship & Genesis Foundation
 
 The visual foundation of FVFC represents over two years of artisanal craftsmanship, high-fashion illustration, and algorithmic curation:
 
@@ -56,7 +56,17 @@ graph TD
 
 ---
 
-## 🧭 Official Navigation
+## ⚡ Web Application Technology Stack
+
+- **Frontend Core**: Next.js 16 (App Router), React 19, TypeScript
+- **Styling & Motion**: Tailwind CSS, Framer Motion, Radix UI, Phosphor Icons, Lucide
+- **Web3 & Contracts**: Thirdweb SDK v5, Viem, 0xSplits Protocol (Splits Warehouse v2)
+- **Decentralized Storage**: Filecoin Network, IPFS permanent media pinning, Upstash KV / Redis
+- **Reliability & Monitoring**: Automated Health & Media Probes, Checkly Synthetic Monitoring, Telegram Ops Notification Bridge
+
+---
+
+## 🏙️ Official Navigation
 
 All links are strictly aligned with the official website navigation structure:
 
@@ -81,7 +91,7 @@ All links are strictly aligned with the official website navigation structure:
 
 ---
 
-## 🌐 Official Socials & Communities
+## 🥂 Official Socials & Communities
 
 - **Feed**:
   - **X (Twitter)**: [@future_vanity](https://x.com/future_vanity)
@@ -104,7 +114,7 @@ All links are strictly aligned with the official website navigation structure:
 
 ---
 
-## 📄 License & Proprietary Notice
+## 🔒 License & Proprietary Notice
 
 All rights reserved © 2026 **Future Vanity Fair Club**.
 
