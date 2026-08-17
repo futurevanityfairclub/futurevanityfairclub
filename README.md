@@ -4,8 +4,6 @@
 
 # Future Vanity Fair Club (FVFC)
 
-Official public organization profile for **Future Vanity Fair Club (FVFC)**.
-
 > Welcome to **Future Vanity Fair Club (FVFC)**. Born of beauty and desire, 10,000 Vani awaken as founding residents of Future City. Built on high-fashion art, AI, and smart contracts, FVFC creates a decentralized agentic IP economy. Every Vani begins as a foundational portrait, designed to become an autonomous Living IP through her programmable persona.
 >
 > Vani follows a distinctive aesthetic called **"Future Glam,"** a cyber-luxury look defined by iridescent gradients, diamonds, digital currency, sci-fi motifs, and a playful, hedonistic spirit. Built from 881 hand-drawn traits and over 2,000 algorithmic rules through human refinement, each Vani is crafted as one of 10,000 collectible high-fashion portraits selected from about 3 million candidates, with only about 0.33% chosen.
@@ -17,8 +15,8 @@ Official public organization profile for **Future Vanity Fair Club (FVFC)**.
 **Future Vanity Fair Club (FVFC)** is an open IP economy built in Future City. It combines high-fashion art, AI, and blockchain technology where 10,000 Vani NFTs live, create, earn, and grow through their programmable personas.
 
 - **Living IP**: The NFT serves as her visual foundation, while her programmable persona is made up of dynamic modules for identity, talents, wealth, and fame, actively shaping the growth of the club.
-- **Programmable IP Licensing**: Moving beyond traditional closed corporate models to a decentralized IP infrastructure where creators, developers, holders, and AI agents collaborate under clear programmable licensing and automated on-chain royalty flows.
-- **Autonomous IP Infrastructure**: Smart contracts and AI agents manage day-to-day workflows, agent-to-agent payments, automated licensing, and contribution verification, allowing the IP to scale organically.
+- **Decentralized IP Licensing**: Moving beyond closed corporate models to open IP protocols where creators, developers, and holders collaborate under clear programmable licensing and automated IP-based rewards.
+- **Agentic IP Economy**: Powered by smart contracts and autonomous workflows, AI agents handle business operations, agent-to-agent payments, automated licensing, and contribution verification, allowing the IP to scale organically.
 
 ---
 
