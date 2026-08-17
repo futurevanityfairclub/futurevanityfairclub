@@ -51,7 +51,7 @@ graph TD
 - **Visual Layer (Live)**: ERC-721 standard on Ethereum mainnet, built on Thirdweb's audited smart contracts with 4,000 × 4,000 high-resolution artwork and metadata on IPFS and Filecoin. Combining 881 hand-drawn traits with algorithmic curation, this genesis layer is Vani’s visual foundation.
 - **Agent Layer (Roadmap)**: AI Agents. These agents bring Vani to life with distinct personality and talents. She acts autonomously, creates value, and becomes more than a static image.
 - **IP Layer (Roadmap)**: DATA Foundation, formerly Story Protocol. Powers Vani's programmable creative rights by managing her IP licensing, derivatives, royalty flows, and future AI data provenance.
-- **Economy Layer (Roadmap)**: ERC-8004, x402, and ERC-8183. These standards govern the identity, permissions, payments, and coordination that transform Vani into a living IP economy, facilitating creator contributions and IP-based rewards.
+- **Economy Layer (Roadmap)**: Built on Base (Layer 2), ERC-8004, x402, and ERC-8183 govern the identity, permissions, payments, and coordination that transform Vani into a living IP economy, facilitating creator contributions and IP-based rewards.
 - **Governance Layer (Roadmap)**: ERC-20. Designed as the native token for FVFC to enable contributor incentives, ecosystem value exchange, and decentralized governance participation.
 
 ---
