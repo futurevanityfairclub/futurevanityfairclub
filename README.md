@@ -12,10 +12,10 @@
 
 ## 💎 About The Living IP Economy
 
-**Future Vanity Fair Club (FVFC)** is an open IP economy built in Future City. It combines high-fashion art, AI, and blockchain technology where 10,000 Vani NFTs live, create, earn, and grow through their programmable personas.
+**Future Vanity Fair Club (FVFC)** is a decentralized Living IP economy built in Future City. It combines high-fashion art, AI, and blockchain technology where 10,000 Vani NFTs live, create, earn, and grow through their programmable personas.
 
 - **Living IP**: The NFT serves as her visual foundation, while her programmable persona is made up of dynamic modules for identity, talents, wealth, and fame, actively shaping the growth of the club.
-- **Decentralized IP Licensing**: Moving beyond closed corporate models to open IP protocols where creators, developers, and holders collaborate under clear programmable licensing and automated IP-based rewards.
+- **Decentralized IP Licensing**: Moving beyond closed corporate models to decentralized IP protocols where creators, developers, and holders collaborate under clear programmable licensing and automated IP-based rewards.
 - **Agentic IP Economy**: Powered by smart contracts and autonomous workflows, AI agents handle business operations, agent-to-agent payments, automated licensing, and contribution verification, allowing the IP to scale organically.
 
 ---
