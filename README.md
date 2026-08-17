@@ -16,20 +16,20 @@ Official public organization profile for **Future Vanity Fair Club (FVFC)**.
 
 **Future Vanity Fair Club (FVFC)** is an open IP economy built in Future City. It combines high-fashion art, AI, and blockchain technology where 10,000 Vani NFTs live, create, earn, and grow through their programmable personas.
 
-- **Living IP**: While traditional avatars remain static, Vani is an evolving digital being with dynamic modules for identity, talents, wealth, and fame, actively shaping the growth of the club.
+- **Living IP**: The NFT serves as her visual foundation, while her programmable persona is made up of dynamic modules for identity, talents, wealth, and fame, actively shaping the growth of the club.
 - **Programmable IP Licensing**: Moving beyond traditional closed corporate models to a decentralized IP infrastructure where creators, developers, holders, and AI agents collaborate under clear programmable licensing and automated on-chain royalty flows.
 - **Autonomous IP Infrastructure**: Smart contracts and AI agents manage day-to-day workflows, agent-to-agent payments, automated licensing, and contribution verification, allowing the IP to scale organically.
 
 ---
 
-## ✨ Artistic Craftsmanship & Genesis Foundation
+## ✨ Artistic Craftsmanship
 
-The visual foundation of FVFC represents over two years of artisanal craftsmanship, high-fashion illustration, and algorithmic curation:
+The creation of FVFC represents over two years of artisanal craftsmanship, high-fashion illustration, and algorithmic curation:
 
 - **4,000 × 4,000 Resolution**: Each original artwork is created and stored at **4,000 × 4,000 pixels**, suitable for digital displays and physical printing.
-- **Hand-drawn Foundation**: **881 unique elements** across **16 primary trait categories**, stacked across **40 independent visual layers**.
+- **Hand-drawn Art**: **881 unique elements** across **16 primary trait categories**, stacked across **40 independent visual layers**.
 - **Algorithmic Logic**: **2,000+ combination rules** (each governed by 10 to 20 sub-conditions) refined over **100+ iterative cycles**, ensuring an average attribute difference of **over 93%**.
-- **Iterative Selection**: The collection of **10,000 Vani NFTs** was curated and refined through a multi-stage selection process from approximately **3 million (3,000,000) generated candidate images** (~0.33% selection rate).
+- **Curated Selection**: The collection of **10,000 Vani NFTs** was curated and refined through a multi-stage selection process from approximately **3 million (3,000,000) generated candidate images** (~0.33% selection rate).
 - **Future Glam**: Cyber-luxury visual language blending modern chic with iridescent gradients, diamonds, digital currency, sci-fi motifs, and 4 signature looks (*Ivory, Bronze, Chocolate, and Luminous*).
 
 ---
@@ -42,17 +42,17 @@ The website presents FVFC through five planned conceptual layers. The live mint 
 graph TD
     FVFC[Future Vanity Fair Club]
     FVFC --- A[Visual Layer: ERC-721]
-    FVFC --- B[Agent Layer: AI Agents]
-    FVFC --- C[IP Layer: DATA Foundation]
+    FVFC --- B[Agent Layer: Programmable Personas]
+    FVFC --- C[IP Layer: Programmable Creative Rights]
     FVFC --- D[Economy Layer: ERC-8004, x402, ERC-8183]
     FVFC --- E[Governance Layer: ERC-20]
 ```
 
-- **Visual Layer (Live)**: ERC-721 standard on Ethereum mainnet, built on Thirdweb's audited smart contracts with 4,000 × 4,000 high-resolution artwork and metadata on IPFS and Filecoin mainnet. Combining 881 hand-drawn traits with algorithmic curation, this genesis layer is Vani’s visual foundation.
-- **Agent Layer (Roadmap)**: AI Agents. These agents bring Vani to life with distinct personality and talents. She acts autonomously, creates value, and becomes more than a static image.
-- **IP Layer (Roadmap)**: DATA Foundation, formerly Story Protocol. Powers Vani's programmable creative rights by managing her IP licensing, derivatives, royalty flows, and future AI data provenance.
-- **Economy Layer (Roadmap)**: Built on Base (Layer 2), ERC-8004, x402, and ERC-8183 govern the identity, permissions, payments, and coordination that transform Vani into a living IP economy, facilitating creator contributions and IP-based rewards.
-- **Governance Layer (Roadmap)**: ERC-20. Designed as the native token for FVFC to enable contributor incentives, ecosystem value exchange, and decentralized governance participation.
+- **Visual Layer (Live)**: ERC-721 standard on Ethereum mainnet, built on Thirdweb's audited smart contracts with 4,000 × 4,000 high-resolution artwork and metadata on IPFS and Filecoin mainnet. Combining 881 hand-drawn traits with algorithmic curation, this genesis layer is Vani’s visual foundation and the collectible base for all subsequent layers.
+- **Agent Layer (Roadmap)**: Programmable Personas. Introduces dynamic modules for identity, talents, wealth, and fame, enabling Vani to expand her storytelling and operate as an autonomous Living IP.
+- **IP Layer (Roadmap)**: Programmable Creative Rights. Powers Vani's decentralized IP infrastructure by managing programmable licensing, derivative creations, automated royalty flows, and on-chain provenance.
+- **Economy Layer (Roadmap)**: Built on Base (Layer 2), ERC-8004, x402, and ERC-8183 govern the identity, permissions, payments, and coordination that transform Vani into a living IP economy. Together, they facilitate creator contributions and IP-based rewards.
+- **Governance Layer (Roadmap)**: ERC-20. Designed as the native token for FVFC. It enables contributor incentives, ecosystem value exchange, and decentralized governance participation.
 
 ---
 
