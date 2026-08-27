@@ -4,19 +4,19 @@
 
 # Future Vanity Fair Club (FVFC)
 
-> Welcome to **Future Vanity Fair Club (FVFC)**. Born of beauty and desire, 10,000 Vani awaken as founding residents of Future City. Built on high-fashion art, AI, and smart contracts, FVFC creates a decentralized agentic IP economy. Every Vani begins as a foundational portrait, designed to become an autonomous Living IP through her programmable persona.
+> Welcome to **Future Vanity Fair Club (FVFC)**. Born of beauty and desire, 10,000 Vani awaken as founding residents of Future City. Built on high-fashion art, AI, and crypto, FVFC creates a decentralized agentic IP economy. Every Vani begins as a foundational portrait, designed to become a Living IP through her programmable persona.
 >
-> Vani follows a distinctive aesthetic called **"Future Glam,"** a cyber-luxury look defined by iridescent gradients, diamonds, digital currency, sci-fi motifs, and a playful, hedonistic spirit. Built from 881 hand-drawn traits and over 2,000 algorithmic rules through human refinement, each Vani is crafted as one of 10,000 collectible high-fashion portraits selected from about 3 million candidates, with only about 0.33% chosen.
+> Vani follows a distinctive aesthetic called **"Future Glam,"** a cyber-luxury look defined by iridescent gradients, diamonds, digital currency, sci-fi motifs, and a playful, hedonistic spirit. Built from 881 hand-drawn traits and over 2,000 algorithmic rules through human refinement, each Vani is crafted as one of 10,000 unique collectible high-fashion portraits selected from about 3 million candidates, with an overall selection ratio of approximately 0.33%.
 
 ---
 
 ## 💎 About The Living IP Economy
 
-**Future Vanity Fair Club (FVFC)** is an open, decentralized Living IP economy built in Future City. It combines high-fashion art, AI, and blockchain technology where 10,000 Vani NFTs live, create, earn, and grow through their programmable personas.
+**Future Vanity Fair Club (FVFC)** is an open, decentralized Living IP economy built in Future City. It combines high-fashion art, AI, and crypto where 10,000 Vani NFTs live, create, earn, and grow through their programmable personas.
 
 - **Living IP**: The NFT serves as her visual foundation, while her programmable persona is made up of dynamic modules for identity, talents, wealth, and fame, actively shaping the growth of the club.
 - **Decentralized IP Licensing**: Moving beyond closed corporate models to decentralized IP protocols where creators, developers, and holders collaborate under clear programmable licensing and automated IP-based rewards.
-- **Agentic IP Economy**: Built on smart contracts and autonomous workflows, AI agents handle business operations, agent-to-agent payments, automated licensing, and contribution verification, allowing the IP to scale organically.
+- **Agentic IP Economy**: Built on smart contracts and agentic workflows, AI agents are designed to handle business workflows, agent-to-agent payments, automated licensing, and contribution verification, allowing the IP to scale organically.
 
 ---
 
@@ -24,17 +24,17 @@
 
 The creation of FVFC represents over two years of artisanal craftsmanship, high-fashion illustration, and algorithmic curation:
 
-- **4,000 × 4,000 Resolution**: Each original artwork is created and stored at **4,000 × 4,000 pixels**, suitable for digital displays and physical printing.
+- **4,000 × 4,000 Resolution**: Each final artwork is exported and verified at **4,000 × 4,000 pixels**, suitable for digital displays and physical printing.
 - **Hand-drawn Art**: **881 unique elements** across **16 primary trait categories**, stacked across **40 independent visual layers**.
 - **Algorithmic Logic**: **2,000+ combination rules** (each governed by 10 to 20 sub-conditions) refined over **100+ iterative cycles**, ensuring an average attribute difference of **over 93%**.
-- **Curated Selection**: The collection of **10,000 Vani NFTs** was curated and refined through a multi-stage selection process from approximately **3 million (3,000,000) generated candidate images** (~0.33% selection rate).
-- **Future Glam**: Cyber-luxury visual language blending modern chic with iridescent gradients, diamonds, digital currency, sci-fi motifs, and 4 signature looks (*Ivory, Bronze, Chocolate, and Luminous*).
+- **Curated Selection**: The collection of **10,000 Vani NFTs** was curated and refined through a multi-stage selection process from approximately **3 million (3,000,000) generated candidate images** (an overall selection ratio of approximately 0.33%).
+- **Future Glam**: Cyber-luxury visual language blending modern chic with iridescent gradients, diamonds, digital currency, sci-fi motifs, and four signature skin tones (*Ivory, Bronze, Chocolate, and Luminous*).
 
 ---
 
-## 🪩 5-Layer Infrastructure Roadmap
+## 🪩 5-Layer Infrastructure Framework
 
-The website presents FVFC through five planned conceptual layers. The live mint currently covers Vani's **Visual Layer** as static ERC-721 artwork; programmable persona, agent, IP, economy, and governance layers are roadmap components and may evolve as the architecture develops:
+The website presents FVFC through five conceptual architectural layers. The live mint currently covers Vani's **Visual Layer** as static ERC-721 artwork; programmable persona, agent, IP, economy, and governance layers are future architectural components that may evolve as the technology develops:
 
 ```mermaid
 graph TD
@@ -46,11 +46,23 @@ graph TD
     FVFC --- E[Governance Layer: ERC-20]
 ```
 
-- **Visual Layer (Live)**: ERC-721 standard on Ethereum mainnet, built on Thirdweb's audited smart contracts with 4,000 × 4,000 high-resolution artwork and metadata on IPFS and Filecoin mainnet. Combining 881 hand-drawn traits with algorithmic curation, this genesis layer is Vani’s visual foundation and the collectible base for all subsequent layers.
-- **Agent Layer (Roadmap)**: Programmable Personas. Introduces dynamic modules for identity, talents, wealth, and fame, enabling Vani to expand her storytelling and operate as an autonomous Living IP.
-- **IP Layer (Roadmap)**: Programmable Creative Rights. Powers Vani's decentralized IP infrastructure by managing programmable licensing, derivative creations, automated royalty flows, and on-chain provenance.
-- **Economy Layer (Roadmap)**: Built on Base (Layer 2), ERC-8004, x402, and ERC-8183 govern the identity, permissions, payments, and coordination that transform Vani into a living IP economy. Together, they facilitate creator contributions and IP-based rewards.
-- **Governance Layer (Roadmap)**: ERC-20. Designed as the native token for FVFC. It enables contributor incentives, ecosystem value exchange, and decentralized governance participation.
+- **Visual Layer (Live)**: ERC-721 on Ethereum mainnet, built using Thirdweb's audited contract infrastructure, with 4,000 × 4,000 high-resolution artwork and metadata stored via IPFS and Filecoin. Combining 881 hand-drawn traits with algorithmic curation, this genesis layer forms Vani’s visual foundation and the collectible base for future layers.
+- **Agent Layer (Future)**: Programmable Personas will introduce dynamic modules for identity, talents, wealth, and fame, enabling Vani to evolve her storytelling and capabilities as a Living IP.
+- **IP Layer (Future)**: Programmable Creative Rights are designed to support Vani's decentralized IP infrastructure through programmable licensing, derivative creations, automated royalty flows, and on-chain provenance.
+- **Economy Layer (Future)**: Designed around Base (Layer 2), ERC-8004, x402, and ERC-8183, this layer is intended to provide infrastructure for agent identity, permissions, payments, and coordination, enabling Vani to participate in an agentic IP economy.
+- **Governance Layer (Future)**: Designed around ERC-20, this layer is intended to support contributor incentives, ecosystem value exchange, and decentralized governance participation.
+
+---
+
+## 📜 Smart Contracts & Decentralized Storage
+
+Official smart contracts and decentralized storage deployed on the Ethereum & Filecoin Mainnet:
+
+| Resource | Protocol / Network | Contract / Storage Identifier |
+| :--- | :---: | :--- |
+| **Future Vanity Fair Club (FVFC)** | `ERC-721` (Ethereum) | [`0xcA32FA34ef54B6F69dC08fa401a911F7Dd3dD9cb` ↗](https://etherscan.io/address/0xcA32FA34ef54B6F69dC08fa401a911F7Dd3dD9cb) |
+| **NFT Metadata (10,000 JSON)** | `IPFS` / `Filecoin` | `ipfs://bafybeifeknbufooufuwsg7v4zalwcvlkyruje4mkqjkm5s5vvuzqnmf77a/` |
+| **Artwork Storage (4,000 × 4,000)** | `IPFS` / `Filecoin` | [54 CAR Packages (50.6 GB Vani Artworks) ↗](./PROVENANCE.md) |
 
 ---
 
@@ -117,4 +129,4 @@ All links are strictly aligned with the official website navigation structure:
 All rights reserved © 2026 **Future Vanity Fair Club**.
 
 - You own your NFT, but FVFC Labs owns the underlying intellectual property (IP). For full terms, see the official [License](https://futurevanityfairclub.com/license) page.
-- This organization and repository provide official brand presence and ecosystem overviews. The core web application, proprietary art assets, and smart contract codebase remain confidential and proprietary. Unauthorized reproduction, modification, or commercial exploitation without permission is strictly prohibited.
+- This repository contains proprietary code, creative assets, and digital artwork. Unauthorized copying, modification, distribution, or commercial exploitation is strictly prohibited.
