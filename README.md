@@ -32,9 +32,9 @@ The creation of FVFC represents over two years of artisanal craftsmanship, high-
 
 ---
 
-## 🪩 5-Layer Infrastructure Roadmap
+## 🪩 5-Layer Infrastructure Framework
 
-The website presents FVFC through five planned conceptual layers. The live mint currently covers Vani's **Visual Layer** as static ERC-721 artwork; programmable persona, agent, IP, economy, and governance layers are roadmap components and may evolve as technology develops:
+The website presents FVFC through five conceptual architectural layers. The live mint currently covers Vani's **Visual Layer** as static ERC-721 artwork; programmable persona, agent, IP, economy, and governance layers are future architectural components that may evolve as technology develops:
 
 ```mermaid
 graph TD
@@ -47,10 +47,10 @@ graph TD
 ```
 
 - **Visual Layer (Live)**: ERC-721 standard on Ethereum mainnet, built on Thirdweb's audited smart contracts with 4,000 × 4,000 high-resolution artwork and metadata on IPFS and Filecoin mainnet. Combining 881 hand-drawn traits with algorithmic curation, this genesis layer is Vani’s visual foundation and the collectible base for all subsequent layers.
-- **Agent Layer (Roadmap)**: Programmable Personas introduce dynamic modules for identity, talents, wealth, and fame, enabling Vani to expand her storytelling and capabilities as a Living IP.
-- **IP Layer (Roadmap)**: Programmable Creative Rights. Powers Vani's decentralized IP infrastructure by managing programmable licensing, derivative creations, automated royalty flows, and on-chain provenance.
-- **Economy Layer (Roadmap)**: Built on Base (Layer 2), ERC-8004, x402, and ERC-8183 govern the identity, permissions, payments, and coordination that transform Vani into a living IP economy. Together, they facilitate creator contributions and IP-based rewards.
-- **Governance Layer (Roadmap)**: ERC-20. Designed as the native token for FVFC. It enables contributor incentives, ecosystem value exchange, and decentralized governance participation.
+- **Agent Layer (Future)**: Programmable Personas introduce dynamic modules for identity, talents, wealth, and fame, enabling Vani to expand her storytelling and capabilities as a Living IP.
+- **IP Layer (Future)**: Programmable Creative Rights. Powers Vani's decentralized IP infrastructure by managing programmable licensing, derivative creations, automated royalty flows, and on-chain provenance.
+- **Economy Layer (Future)**: Built on Base (Layer 2), ERC-8004, x402, and ERC-8183 govern the identity, permissions, payments, and coordination that transform Vani into a living IP economy. Together, they facilitate creator contributions and IP-based rewards.
+- **Governance Layer (Future)**: ERC-20. Designed as the native token for FVFC. It enables contributor incentives, ecosystem value exchange, and decentralized governance participation.
 
 ---
 
