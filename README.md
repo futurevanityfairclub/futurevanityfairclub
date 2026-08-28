@@ -56,13 +56,14 @@ graph TD
 
 ## 📜 Smart Contracts & Decentralized Storage
 
-Official smart contracts and decentralized storage deployed on the Ethereum & Filecoin Mainnet:
+Official smart contracts, decentralized storage, and media distribution infrastructure deployed on Ethereum, Filecoin Mainnet, and Cloudflare Global Edge:
 
-| Resource | Protocol / Network | Contract / Storage Identifier |
-| :--- | :---: | :--- |
-| **Future Vanity Fair Club (FVFC)** | `ERC-721` (Ethereum) | [`0xcA32FA34ef54B6F69dC08fa401a911F7Dd3dD9cb` ↗](https://etherscan.io/address/0xcA32FA34ef54B6F69dC08fa401a911F7Dd3dD9cb) |
-| **NFT Metadata (10,000 JSON)** | `IPFS` / `Filecoin` | [`ipfs://bafybeifeknbufooufuwsg7v4zalwcvlkyruje4mkqjkm5s5vvuzqnmf77a/` ↗](https://media.futurevanityfairclub.workers.dev/ipfs/bafybeifeknbufooufuwsg7v4zalwcvlkyruje4mkqjkm5s5vvuzqnmf77a/) |
-| **Artwork Storage (4,000 × 4,000)** | `IPFS` / `Filecoin` | [54 CAR Packages (50.6 GB Vani Artworks) ↗](https://github.com/futurevanityfairclub/futurevanityfairclub/blob/main/PROVENANCE.md) |
+| Resource | Protocol / Network | Contract / Storage Identifier | Live Verification / Manifest |
+| :--- | :---: | :--- | :--- |
+| **Future Vanity Fair Club (FVFC)** | `ERC-721` (Ethereum) | [`0xcA32FA34ef54B6F69dC08fa401a911F7Dd3dD9cb`](https://etherscan.io/address/0xcA32FA34ef54B6F69dC08fa401a911F7Dd3dD9cb) | [Etherscan Explorer](https://etherscan.io/address/0xcA32FA34ef54B6F69dC08fa401a911F7Dd3dD9cb) |
+| **NFT Metadata (10,000 JSON)** | `IPFS` / `Filecoin` | [`ipfs://bafybeifeknbufooufuwsg7v4zalwcvlkyruje4mkqjkm5s5vvuzqnmf77a/`](https://media.futurevanityfairclub.workers.dev/ipfs/bafybeifeknbufooufuwsg7v4zalwcvlkyruje4mkqjkm5s5vvuzqnmf77a/) | [`View 10k Metadata Root`](https://media.futurevanityfairclub.workers.dev/ipfs/bafybeifeknbufooufuwsg7v4zalwcvlkyruje4mkqjkm5s5vvuzqnmf77a/) |
+| **Artwork Storage (4,000 × 4,000)** | `IPFS` / `Filecoin` | [54 CAR Packages (50.6 GB Vani Artworks)](https://github.com/futurevanityfairclub/futurevanityfairclub/blob/main/PROVENANCE.md) | [PROVENANCE Manifest](https://github.com/futurevanityfairclub/futurevanityfairclub/blob/main/PROVENANCE.md) |
+| **Global Media Gateway** | `Cloudflare Edge` | `media.futurevanityfairclub.workers.dev` | [`Gateway Health Check`](https://media.futurevanityfairclub.workers.dev/health) |
 
 ---
 
@@ -71,8 +72,8 @@ Official smart contracts and decentralized storage deployed on the Ethereum & Fi
 - **Frontend Core**: Next.js 16 (App Router), React 19, TypeScript
 - **Styling & Motion**: Tailwind CSS, Framer Motion, Radix UI, Phosphor Icons, Lucide
 - **Web3 & Contracts**: Thirdweb SDK v5, Viem, 0xSplits Protocol (Splits Warehouse v2)
-- **Decentralized Storage**: Filecoin Network (Mainnet), IPFS, Upstash KV / Redis
-- **Reliability & Monitoring**: Automated Health & Media Probes, Checkly Synthetic Monitoring, Telegram Ops Notification Bridge
+- **Decentralized Storage & Media CDN**: Filecoin Network (Mainnet), IPFS, Cloudflare Workers Global Edge Media Gateway (with 1-year immutable caching)
+- **Reliability & Monitoring**: Automated Health & Media Probes, Upstash KV / Redis, Checkly Synthetic Monitoring, Telegram Ops Notification Bridge
 
 ---
 
