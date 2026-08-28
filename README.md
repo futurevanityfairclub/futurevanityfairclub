@@ -61,7 +61,7 @@ Official smart contracts and decentralized storage deployed on the Ethereum & Fi
 | Resource | Protocol / Network | Contract / Storage Identifier |
 | :--- | :---: | :--- |
 | **Future Vanity Fair Club (FVFC)** | `ERC-721` (Ethereum) | [`0xcA32FA34ef54B6F69dC08fa401a911F7Dd3dD9cb` ↗](https://etherscan.io/address/0xcA32FA34ef54B6F69dC08fa401a911F7Dd3dD9cb) |
-| **NFT Metadata (10,000 JSON)** | `IPFS` / `Filecoin` | `ipfs://bafybeifeknbufooufuwsg7v4zalwcvlkyruje4mkqjkm5s5vvuzqnmf77a/` |
+| **NFT Metadata (10,000 JSON)** | `IPFS` / `Filecoin` | [`ipfs://bafybeifeknbufooufuwsg7v4zalwcvlkyruje4mkqjkm5s5vvuzqnmf77a/` ↗](https://media.futurevanityfairclub.workers.dev/ipfs/bafybeifeknbufooufuwsg7v4zalwcvlkyruje4mkqjkm5s5vvuzqnmf77a/) |
 | **Artwork Storage (4,000 × 4,000)** | `IPFS` / `Filecoin` | [54 CAR Packages (50.6 GB Vani Artworks) ↗](https://github.com/futurevanityfairclub/futurevanityfairclub/blob/main/PROVENANCE.md) |
 
 ---
