@@ -98,4 +98,4 @@ The complete 881-row itemized dataset with exact counts, percentages, and rarity
 - **Craftsmanship**: [https://futurevanityfairclub.com/craftsmanship](https://futurevanityfairclub.com/craftsmanship)
 - **Traits Overview**: [https://futurevanityfairclub.com/traits](https://futurevanityfairclub.com/traits)
 - **Collection Gallery**: [https://futurevanityfairclub.com/gallery](https://futurevanityfairclub.com/gallery)
-- **Storage Provenance**: [PROVENANCE.md](../../PROVENANCE.md)
+- **Storage Provenance**: [PROVENANCE.md](./PROVENANCE.md)

@@ -29,7 +29,7 @@ The creation of FVFC represents over two years of artisanal craftsmanship, high-
 - **Algorithmic Logic**: **2,000+ combination rules** (each governed by 10 to 20 sub-conditions) refined over **100+ iterative cycles**, ensuring an average attribute difference of **over 93%**.
 - **Curated Selection**: The collection of **10,000 Vani NFTs** was curated and refined through a multi-stage selection process from approximately **3 million generated candidate images** (~0.33% selection rate).
 - **Future Glam**: Cyber-luxury visual language blending modern chic with iridescent gradients, diamonds, digital currency, sci-fi motifs, and 4 signature looks (*Ivory, Bronze, Chocolate, and Luminous*).
-- **Rarity Whitepaper & Dataset**: Explore the complete [FVFC Trait Rarity Whitepaper](docs/rarity/FVFC_NFT_Rarity_Whitepaper.md) and download the [881-Trait Dataset (CSV)](docs/rarity/FVFC_Trait_Rarity_Dataset.csv).
+- **Rarity Whitepaper & Dataset**: Explore the complete [FVFC Trait Rarity Whitepaper](FVFC_NFT_Rarity_Whitepaper.md) and download the [881-Trait Dataset (CSV)](FVFC_Trait_Rarity_Dataset.csv).
 
 ---
 
@@ -64,7 +64,7 @@ Official smart contracts, decentralized storage, and media distribution infrastr
 | **Future Vanity Fair Club (FVFC)** | `ERC-721` (Ethereum) | [`0xcA32FA34ef54B6F69dC08fa401a911F7Dd3dD9cb`](https://etherscan.io/address/0xcA32FA34ef54B6F69dC08fa401a911F7Dd3dD9cb) | [Etherscan Explorer](https://etherscan.io/address/0xcA32FA34ef54B6F69dC08fa401a911F7Dd3dD9cb) |
 | **NFT Metadata (10,000 JSON)** | `IPFS` / `Filecoin` | [`ipfs://bafybeifeknbufooufuwsg7v4zalwcvlkyruje4mkqjkm5s5vvuzqnmf77a/`](https://media.futurevanityfairclub.workers.dev/ipfs/bafybeifeknbufooufuwsg7v4zalwcvlkyruje4mkqjkm5s5vvuzqnmf77a/) | [`View 10k Metadata Root`](https://media.futurevanityfairclub.workers.dev/ipfs/bafybeifeknbufooufuwsg7v4zalwcvlkyruje4mkqjkm5s5vvuzqnmf77a/) |
 | **Artwork Storage (4,000 × 4,000)** | `IPFS` / `Filecoin` | [54 CAR Packages (50.6 GB Vani Artworks)](https://github.com/futurevanityfairclub/futurevanityfairclub/blob/main/PROVENANCE.md) | [PROVENANCE Manifest](https://github.com/futurevanityfairclub/futurevanityfairclub/blob/main/PROVENANCE.md) |
-| **Rarity Whitepaper & Dataset** | `Documentation` | 881 Trait Dataset & Classification | [Whitepaper](docs/rarity/FVFC_NFT_Rarity_Whitepaper.md) / [Dataset (CSV)](docs/rarity/FVFC_Trait_Rarity_Dataset.csv) |
+| **Rarity Whitepaper & Dataset** | `Documentation` | 881 Trait Dataset & Classification | [Whitepaper](FVFC_NFT_Rarity_Whitepaper.md) / [Dataset (CSV)](FVFC_Trait_Rarity_Dataset.csv) |
 | **Global Media Gateway** | `Cloudflare Edge` | `media.futurevanityfairclub.workers.dev` | [`Gateway Health Check`](https://media.futurevanityfairclub.workers.dev/health) |
 
 ---
