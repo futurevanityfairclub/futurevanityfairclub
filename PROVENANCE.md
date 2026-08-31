@@ -5,7 +5,7 @@
 # 💎 FVFC Artwork Provenance & Storage Manifest
 
 > **Future Vanity Fair Club (FVFC)** master artwork and metadata storage manifest on **Ethereum Mainnet**, **Filecoin Mainnet**, and **IPFS**.  
-> Each original artwork is created and stored at **4,000 × 4,000 pixels** (50.6 GB total) across 54 CAR packages, with 10,000 metadata JSON records.
+> Each original artwork is created and stored at **4,000 × 4,000 pixels** (50.6 GB total) across 54 CAR packages, with 10,000 JSON metadata records.
 
 ---
 
