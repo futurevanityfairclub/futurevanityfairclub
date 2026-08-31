@@ -1,0 +1,882 @@
+Trait Type,Trait Value,Count,Percentage,Rarity Tier
+Atmosphere,Unicorn,16,0.16%,Legendary
+Atmosphere,Firefly,26,0.26%,Legendary
+Atmosphere,Get Rich,236,2.36%,Rare
+Background,Tender,61,0.61%,Epic
+Background,Crypto,70,0.70%,Epic
+Background,Pink Money,73,0.73%,Epic
+Background,Money,110,1.10%,Epic
+Background,Stage,115,1.15%,Epic
+Background,Energetic Orange,184,1.84%,Epic
+Background,Geometry,188,1.88%,Epic
+Background,Pool Party,199,1.99%,Epic
+Background,Cyber Crypto,205,2.05%,Rare
+Background,Shiny Stage,262,2.62%,Rare
+Background,Morning Glow,273,2.73%,Rare
+Background,Candlestick,293,2.93%,Rare
+Background,Colorful Data,296,2.96%,Rare
+Background,Heart,299,2.99%,Rare
+Background,Mist Pink,327,3.27%,Rare
+Background,Soft Pink,388,3.88%,Rare
+Background,Midnight,440,4.40%,Rare
+Background,Cyber City,442,4.42%,Rare
+Background,Cyber Light Ring,443,4.43%,Rare
+Background,Sunset Gradient,451,4.51%,Rare
+Background,Code City,505,5.05%,Common
+Background,Fresh,520,5.20%,Common
+Background,Data,555,5.55%,Common
+Background,Coconut Trees Sunset,624,6.24%,Common
+Background,Dreamy,670,6.70%,Common
+Background,Gallery,973,9.73%,Common
+Background,Space,1034,10.34%,Common
+Body Accessories,Heart Yoga Mat,7,0.07%,Mythic
+Body Accessories,Iridescent Yoga Mat,42,0.42%,Legendary
+Body Accessories,Golden Feather Wings,47,0.47%,Legendary
+Body Accessories,Mermaid,52,0.52%,Epic
+Body Accessories,Wings,52,0.52%,Epic
+Cloth,Pink Leopard Bikini,6,0.06%,Mythic
+Cloth,Bubble Dress,12,0.12%,Legendary
+Cloth,Chinese Ink Style Suit,18,0.18%,Legendary
+Cloth,Blue Deep V Neck Dress,19,0.19%,Legendary
+Cloth,Golden Rose Dress,21,0.21%,Legendary
+Cloth,Golden Rose Nightgown,21,0.21%,Legendary
+Cloth,Purple Blazer,21,0.21%,Legendary
+Cloth,Rose Jacket,21,0.21%,Legendary
+Cloth,Orange Houndstooth Pajamas,22,0.22%,Legendary
+Cloth,Lilac Bustier,25,0.25%,Legendary
+Cloth,Wave Surf Wear,27,0.27%,Legendary
+Cloth,Black Deep V Neck Dress,28,0.28%,Legendary
+Cloth,Golden Star Dress,29,0.29%,Legendary
+Cloth,Aquamarine Art Deco Nightgown,30,0.30%,Legendary
+Cloth,Black Dress,31,0.31%,Legendary
+Cloth,Golden One Shoulder Dress with Bow,31,0.31%,Legendary
+Cloth,Pink Cardigan with Diamond Buttons,34,0.34%,Legendary
+Cloth,Animal Print Pajamas,36,0.36%,Legendary
+Cloth,Green Cut Out Dress,36,0.36%,Legendary
+Cloth,Red Flower Print Haori,37,0.37%,Legendary
+Cloth,Leaf Dress,38,0.38%,Legendary
+Cloth,Black Crypto Nightgown,39,0.39%,Legendary
+Cloth,Black and Golden Art Deco Nightgown,39,0.39%,Legendary
+Cloth,Coral Checkered Jacket,39,0.39%,Legendary
+Cloth,FVFC Suit,39,0.39%,Legendary
+Cloth,Tassel Decor White Blazer,40,0.40%,Legendary
+Cloth,Tennis Suit,40,0.40%,Legendary
+Cloth,Star Jacket,41,0.41%,Legendary
+Cloth,Galaxy Suit,42,0.42%,Legendary
+Cloth,Marshmallow Nightgown,42,0.42%,Legendary
+Cloth,Purple Checkered Jacket,42,0.42%,Legendary
+Cloth,Rose Gold Jacket,43,0.43%,Legendary
+Cloth,White Flower Suit,43,0.43%,Legendary
+Cloth,Splash Ink Jacket,44,0.44%,Legendary
+Cloth,Royal Blue Suit with Brooches,45,0.45%,Legendary
+Cloth,Zebra Bikini,45,0.45%,Legendary
+Cloth,Navy Metallic Blazer,46,0.46%,Legendary
+Cloth,Diamond Halter Dress,47,0.47%,Legendary
+Cloth,Golden Blazer,47,0.47%,Legendary
+Cloth,Golden Feather Dress,47,0.47%,Legendary
+Cloth,Silver Surf Wear,48,0.48%,Legendary
+Cloth,Peach Bustier,50,0.50%,Legendary
+Cloth,Art Deco Blazer,52,0.52%,Epic
+Cloth,Mermaid,52,0.52%,Epic
+Cloth,Green Tennis Suit,53,0.53%,Epic
+Cloth,Pink Houndstooth Pajamas,53,0.53%,Epic
+Cloth,Retro Colors Sports Bra,53,0.53%,Epic
+Cloth,Butterfly Top,54,0.54%,Epic
+Cloth,Orange Sweater,54,0.54%,Epic
+Cloth,Aquamarine Dress with Diamond Straps,55,0.55%,Epic
+Cloth,Heart Jacket,55,0.55%,Epic
+Cloth,White Surf Wear,56,0.56%,Epic
+Cloth,Black and White Bikini,57,0.57%,Epic
+Cloth,Mist Violet Dress,58,0.58%,Epic
+Cloth,Gold Butterfly Top,59,0.59%,Epic
+Cloth,Graduation Gown,60,0.60%,Epic
+Cloth,Marbling Suit,63,0.63%,Epic
+Cloth,Sleeveless Surf Wear,63,0.63%,Epic
+Cloth,Lavender Bowknot Dress,64,0.64%,Epic
+Cloth,Blue Dress with Diamond Straps,65,0.65%,Epic
+Cloth,Sky Blue Silk Suit,66,0.66%,Epic
+Cloth,Blue Tassel Decor Bikini,67,0.67%,Epic
+Cloth,Lilac Nightgown,67,0.67%,Epic
+Cloth,Paper Planes Suit,68,0.68%,Epic
+Cloth,Champagne Gold Suit,69,0.69%,Epic
+Cloth,Golden and Black Petal Dress,70,0.70%,Epic
+Cloth,Orange One Shoulder Dress,71,0.71%,Epic
+Cloth,Orange Suit,71,0.71%,Epic
+Cloth,Silver Dress,71,0.71%,Epic
+Cloth,Black Dress with Pink Bow,72,0.72%,Epic
+Cloth,Jewelry Blazer with Diamonds,72,0.72%,Epic
+Cloth,Heart Bikini,73,0.73%,Epic
+Cloth,Exotic Blazer,74,0.74%,Epic
+Cloth,Rose Violet Cutout Top with Diamond Buttons,74,0.74%,Epic
+Cloth,Rose Blazer,75,0.75%,Epic
+Cloth,Rose Dress,75,0.75%,Epic
+Cloth,Green Cardigan with Diamond Buttons,76,0.76%,Epic
+Cloth,Lily Suit,76,0.76%,Epic
+Cloth,Green Silk Suit,78,0.78%,Epic
+Cloth,Pink and Blue Dress with Diamond Straps,79,0.79%,Epic
+Cloth,Pistachio Off Shoulder Dress,80,0.80%,Epic
+Cloth,White Suit,83,0.83%,Epic
+Cloth,Silver Silk Nightgown,84,0.84%,Epic
+Cloth,Cherry Blossom Latex Dress,85,0.85%,Epic
+Cloth,Sunset Sports Bra,87,0.87%,Epic
+Cloth,Violet Off Shoulder Dress with Pearls,87,0.87%,Epic
+Cloth,Crypto Dress,88,0.88%,Epic
+Cloth,Pink Tassel Decor Bikini,88,0.88%,Epic
+Cloth,Aquamarine Sports Bra,89,0.89%,Epic
+Cloth,Blue Sports Bra,89,0.89%,Epic
+Cloth,Red Qipao,89,0.89%,Epic
+Cloth,Splash Ink Print Off Shoulder Dress,89,0.89%,Epic
+Cloth,White Crypto Suit,89,0.89%,Epic
+Cloth,Golden Bikini,90,0.90%,Epic
+Cloth,Money Dress,91,0.91%,Epic
+Cloth,Yellow Sweater,95,0.95%,Epic
+Cloth,Pink Shiny Dress,96,0.96%,Epic
+Cloth,Puff Sleeve Shiny Dress,96,0.96%,Epic
+Cloth,Ski Suit,98,0.98%,Epic
+Cloth,Pink Wallet Dress,99,0.99%,Epic
+Cloth,Black Surf Wear,100,1.00%,Epic
+Cloth,Scarlet Dress with Bow,101,1.01%,Epic
+Cloth,Pink Tulle Dress,106,1.06%,Epic
+Cloth,Red Velvet Dress,106,1.06%,Epic
+Cloth,Chain Bikini,107,1.07%,Epic
+Cloth,Royal Blue Shiny Pleated Dress,110,1.10%,Epic
+Cloth,Chain Bodysuit,111,1.11%,Epic
+Cloth,Green Velvet Dress,111,1.11%,Epic
+Cloth,Green Halter Dress,112,1.12%,Epic
+Cloth,Red Sequin Dress,114,1.14%,Epic
+Cloth,Silver Star Dress,123,1.23%,Epic
+Cloth,Water Blue Top,128,1.28%,Epic
+Cloth,Violet Shiny Halterneck Vest,135,1.35%,Epic
+Cloth,Pink Tennis Suit,137,1.37%,Epic
+Cloth,Dragon Fruit Slip Dress with Diamond Straps,145,1.45%,Epic
+Cloth,Gold Shiny Bikini,147,1.47%,Epic
+Cloth,Silver Silk Dress,148,1.48%,Epic
+Cloth,Mint Green Latex Dress,149,1.49%,Epic
+Cloth,Pink Slip Dress with Pink Shiny Shawl,151,1.51%,Epic
+Cloth,Zipped Hoodie,153,1.53%,Epic
+Cloth,Milky Way One Shoulder Dress,157,1.57%,Epic
+Cloth,Golden Line Qipao,166,1.66%,Epic
+Cloth,Golden Pleated Vest,167,1.67%,Epic
+Cloth,Sky Blue Shiny Dress,171,1.71%,Epic
+Cloth,Black Top,178,1.78%,Epic
+Cloth,Diamond Bodysuit,182,1.82%,Epic
+Cloth,Green Haori,189,1.89%,Epic
+Cloth,Peach Shiny Halterneck Vest,191,1.91%,Epic
+Cloth,Lilac Dress with Pearl Stripes,195,1.95%,Epic
+Cloth,Salmon Shiny Halterneck Vest,197,1.97%,Epic
+Earring,Citrine,2,0.02%,Mythic
+Earring,Silver Chain,3,0.03%,Mythic
+Earring,Gold Chain,4,0.04%,Mythic
+Earring,Golden Star with Tassel Decor,6,0.06%,Mythic
+Earring,Iridescent Spiral,6,0.06%,Mythic
+Earring,Iridescent Star with Tassel Decor,7,0.07%,Mythic
+Earring,Golden Chain,8,0.08%,Mythic
+Earring,Diamond Tassel Decor Drop,11,0.11%,Legendary
+Earring,Iridescent Chain,11,0.11%,Legendary
+Earring,Shuriken,12,0.12%,Legendary
+Earring,Silver Short Chain,21,0.21%,Legendary
+Earring,Feather,32,0.32%,Legendary
+Earring,Ruby Gem Teardrop,32,0.32%,Legendary
+Earring,Golden Roughened Circle,33,0.33%,Legendary
+Earring,Golden Spiral,34,0.34%,Legendary
+Earring,Silver Star with Tassel Decor,34,0.34%,Legendary
+Earring,Pink Gem Teardrop,37,0.37%,Legendary
+Earring,Silver Roughened Circle,38,0.38%,Legendary
+Earring,Platinum Tassel Decor,44,0.44%,Legendary
+Earring,Platinum Star with Tassel Decor,45,0.45%,Legendary
+Earring,Iridescent Short Chain,66,0.66%,Epic
+Earring,Floral Diamonds,69,0.69%,Epic
+Earring,Pink Diamond with Tassel Decor Drop,72,0.72%,Epic
+Earring,Ruby Ring,94,0.94%,Epic
+Earring,Diamond Star with Tassel Decor,100,1.00%,Epic
+Earring,Spider Web,116,1.16%,Epic
+Earring,Iridescent Roughened Circle,126,1.26%,Epic
+Earring,Eye,131,1.31%,Epic
+Earring,Emerald Gem Teardrop,141,1.41%,Epic
+Earring,Golden Short Chain,248,2.48%,Rare
+Earring,Bluetooth Earphone,398,3.98%,Rare
+Earring,Rose Gold Short Chain,438,4.38%,Rare
+Earring,Star,518,5.18%,Common
+Earring,Heart,555,5.55%,Common
+Earring,Ruby,681,6.81%,Common
+Earring,Amethyst,687,6.87%,Common
+Earring,Crypto,741,7.41%,Common
+Earring,Double Diamond,815,8.15%,Common
+Earring,Diamond,905,9.05%,Common
+Earring,Emerald,1110,11.10%,Common
+Eye,Awkward with Blush,1,0.01%,Mythic
+Eye,Awkward with Metallic Eyebrows,1,0.01%,Mythic
+Eye,Nervous,1,0.01%,Mythic
+Eye,Nervous with Metallic Eyebrows and Blush,1,0.01%,Mythic
+Eye,Sad Shiny Honey,1,0.01%,Mythic
+Eye,Sad Shiny Honey with Blush,1,0.01%,Mythic
+Eye,Stare Blue with Feather Eyelashes,1,0.01%,Mythic
+Eye,Stare Blue with Feather Eyelashes and Blush,1,0.01%,Mythic
+Eye,Stare Honey with Feather Eyelashes,1,0.01%,Mythic
+Eye,Stare Honey with Feather Eyelashes and Blush,1,0.01%,Mythic
+Eye,Stare Silver with Feather Eyelashes,1,0.01%,Mythic
+Eye,Doge Silver with Metallic Eyebrows and Blush,2,0.02%,Mythic
+Eye,Golden Eyeshadow with Pearls,2,0.02%,Mythic
+Eye,Oops Pink with Metallic Eyebrows,2,0.02%,Mythic
+Eye,Stare Silver with Stars and Metallic Eyebrows and Blush,2,0.02%,Mythic
+Eye,Aquamarine Eyeshadow with Butterfly and Blush,3,0.03%,Mythic
+Eye,Aquamarine Eyeshadow with Butterfly and Metallic Eyebrows,3,0.03%,Mythic
+Eye,Aquamarine Eyeshadow with Pearls,3,0.03%,Mythic
+Eye,Doge Aquamarine,3,0.03%,Mythic
+Eye,Doge Aquamarine with Metallic Eyebrows,3,0.03%,Mythic
+Eye,Doge Aquamarine with Metallic Eyebrows and Blush,3,0.03%,Mythic
+Eye,Golden Eyeshadow with Butterfly and Metallic Eyebrows and Blush,3,0.03%,Mythic
+Eye,Golden Eyeshadow with Pearls and Blush,3,0.03%,Mythic
+Eye,Oops Pink with Metallic Eyebrows and Blush,3,0.03%,Mythic
+Eye,Silver Eyeshadow with Butterfly and Metallic Eyebrows,3,0.03%,Mythic
+Eye,Doge Shiny Silver with Metallic Eyebrows,4,0.04%,Mythic
+Eye,Doge Shiny Silver with Metallic Eyebrows and Blush,4,0.04%,Mythic
+Eye,Green Eyeshadow with Pearls,4,0.04%,Mythic
+Eye,Stare Blue with Stars and Blush,4,0.04%,Mythic
+Eye,Stare Shiny Honey with Stars and Blush,4,0.04%,Mythic
+Eye,Stare Shiny Honey with Stars and Metallic Eyebrows and Blush,4,0.04%,Mythic
+Eye,Aquamarine Eyeshadow with Diamond Eyebrows,5,0.05%,Mythic
+Eye,Doge Shiny Silver with Diamond Eyebrows and Blush,5,0.05%,Mythic
+Eye,Doge Silver with Diamond Eyebrows and Blush,5,0.05%,Mythic
+Eye,Green Eyeshadow with Butterfly and Metallic Eyebrows,5,0.05%,Mythic
+Eye,LOL with Metallic Eyebrows,5,0.05%,Mythic
+Eye,Oops Blue with Blush,5,0.05%,Mythic
+Eye,Oops Honey with Blush,5,0.05%,Mythic
+Eye,Stare Pink with Stars and Metallic Eyebrows and Blush,5,0.05%,Mythic
+Eye,Doge Shiny Silver with Diamond Eyebrows,6,0.06%,Mythic
+Eye,Doge Silver with Metallic Eyebrows,6,0.06%,Mythic
+Eye,Golden Eyeshadow with Butterfly and Metallic Eyebrows,6,0.06%,Mythic
+Eye,Heart Eyes with Blush,6,0.06%,Mythic
+Eye,Oops Honey,6,0.06%,Mythic
+Eye,Sad Shiny Honey with Metallic Eyebrows and Blush,6,0.06%,Mythic
+Eye,Stare Blue with Stars,6,0.06%,Mythic
+Eye,Stare Pink with Feather Eyelashes and Blush,6,0.06%,Mythic
+Eye,Stare Pink with Stars and Metallic Eyebrows,6,0.06%,Mythic
+Eye,Stare Shiny Honey with Metallic Eyebrows and Blush,6,0.06%,Mythic
+Eye,Stare Silver with Stars and Blush,6,0.06%,Mythic
+Eye,Aquamarine Eyeshadow with Butterfly,7,0.07%,Mythic
+Eye,Green Eyeshadow with Butterfly and Metallic Eyebrows and Blush,7,0.07%,Mythic
+Eye,LMAO with Metallic Eyebrows,7,0.07%,Mythic
+Eye,LMAO with Metallic Eyebrows and Blush,7,0.07%,Mythic
+Eye,Lilac Shiny Eyeshadow with Pearls,7,0.07%,Mythic
+Eye,Lilac Shiny Eyeshadow with Pearls and Blush,7,0.07%,Mythic
+Eye,Oops Blue,7,0.07%,Mythic
+Eye,Silver Eyeshadow with Butterfly,7,0.07%,Mythic
+Eye,Smile with Metallic Eyebrows,7,0.07%,Mythic
+Eye,Stare Pink with Feather Eyelashes,7,0.07%,Mythic
+Eye,Sweat with Metallic Eyebrows,7,0.07%,Mythic
+Eye,Closed Eyes with Stars and Metallic Eyebrows,8,0.08%,Mythic
+Eye,LOL with Metallic Eyebrows and Blush,8,0.08%,Mythic
+Eye,Silver Eyeshadow with Butterfly and Metallic Eyebrows and Blush,8,0.08%,Mythic
+Eye,Stare Honey with Stars and Blush,8,0.08%,Mythic
+Eye,Aquamarine Eyeshadow with Butterfly and Metallic Eyebrows and Blush,9,0.09%,Mythic
+Eye,Green Eyeshadow with Pearls and Blush,9,0.09%,Mythic
+Eye,Silver Eyeshadow with Butterfly and Blush,9,0.09%,Mythic
+Eye,Stare Golden with Feather Eyelashes,9,0.09%,Mythic
+Eye,Stare Pink with Diamond Eyebrows and Blush,9,0.09%,Mythic
+Eye,Stare Shiny Honey with Diamond Eyebrows,10,0.10%,Mythic
+Eye,Wink Golden with Metallic Eyebrows,10,0.10%,Mythic
+Eye,Closed Eyes with Stars and Metallic Eyebrows and Blush,11,0.11%,Legendary
+Eye,Stare Heterochromia with Diamond Eyebrows and Blush,11,0.11%,Legendary
+Eye,Stare Silver with Feather Eyelashes and Blush,11,0.11%,Legendary
+Eye,Doge Shiny Silver with Blush,12,0.12%,Legendary
+Eye,Stare Shiny Honey with Metallic Eyebrows,12,0.12%,Legendary
+Eye,Oops Pink,13,0.13%,Legendary
+Eye,Silver Eyeshadow with Diamond Eyebrows,13,0.13%,Legendary
+Eye,Stare Blue with Diamond Eyebrows,15,0.15%,Legendary
+Eye,Stare Honey with Stars,15,0.15%,Legendary
+Eye,Sweat with Metallic Eyebrows and Blush,15,0.15%,Legendary
+Eye,Doge Shiny Silver,16,0.16%,Legendary
+Eye,Stare Blue with Blush,16,0.16%,Legendary
+Eye,Stare Golden with Stars,16,0.16%,Legendary
+Eye,Stare Honey,16,0.16%,Legendary
+Eye,Stare Pink,16,0.16%,Legendary
+Eye,Stare Pink with Diamond Eyebrows,16,0.16%,Legendary
+Eye,Wink Aquamarine with Metallic Eyebrows and Blush,16,0.16%,Legendary
+Eye,Heart Eyes,18,0.18%,Legendary
+Eye,Luminous Heart Eyes,18,0.18%,Legendary
+Eye,Smile with Metallic Eyebrows and Blush,18,0.18%,Legendary
+Eye,Stare Golden with Feather Eyelashes and Blush,18,0.18%,Legendary
+Eye,Wink Aquamarine with Metallic Eyebrows,18,0.18%,Legendary
+Eye,Doge Silver with Blush,19,0.19%,Legendary
+Eye,Silver Eyeshadow with Diamond Eyebrows and Blush,19,0.19%,Legendary
+Eye,Stare Blue,19,0.19%,Legendary
+Eye,Stare Golden with Stars and Blush,20,0.20%,Legendary
+Eye,Aquamarine Eyeshadow with Diamond Eyebrows and Blush,22,0.22%,Legendary
+Eye,Stare Pink with Stars,22,0.22%,Legendary
+Eye,Wink Golden with Metallic Eyebrows and Blush,22,0.22%,Legendary
+Eye,Oops Pink with Blush,23,0.23%,Legendary
+Eye,Wink Green with Metallic Eyebrows,23,0.23%,Legendary
+Eye,Stare Heterochromia with Diamond Eyebrows,24,0.24%,Legendary
+Eye,LMAO,25,0.25%,Legendary
+Eye,LMAO with Blush,26,0.26%,Legendary
+Eye,Stare Pink with Blush,26,0.26%,Legendary
+Eye,Stare Shiny Honey with Diamond Eyebrows and Blush,26,0.26%,Legendary
+Eye,Wink Silver with Metallic Eyebrows,26,0.26%,Legendary
+Eye,Wink Silver with Metallic Eyebrows and Blush,27,0.27%,Legendary
+Eye,Stare Blue with Diamond Eyebrows and Blush,29,0.29%,Legendary
+Eye,Sad Golden with Blush,30,0.30%,Legendary
+Eye,Oops Golden,32,0.32%,Legendary
+Eye,Doge Silver with Diamond Eyebrows,34,0.34%,Legendary
+Eye,Wink Green with Metallic Eyebrows and Blush,34,0.34%,Legendary
+Eye,Tipsy with Metallic Eyebrows,35,0.35%,Legendary
+Eye,Doge Golden with Diamond Eyebrows,40,0.40%,Legendary
+Eye,Stare Shiny Honey,40,0.40%,Legendary
+Eye,Luminous Heart Eyes with Hearts,42,0.42%,Legendary
+Eye,Stare Pink with Stars and Blush,45,0.45%,Legendary
+Eye,Doge Silver,46,0.46%,Legendary
+Eye,Crying,48,0.48%,Legendary
+Eye,Golden Eyeshadow with Butterfly and Blush,49,0.49%,Legendary
+Eye,Stare Shiny Honey with Blush,53,0.53%,Epic
+Eye,Lilac Eyeshadow with Diamond Eyebrows and Blush,54,0.54%,Epic
+Eye,Wink Aquamarine,54,0.54%,Epic
+Eye,Cry,55,0.55%,Epic
+Eye,Oops Golden with Blush,55,0.55%,Epic
+Eye,Golden Eyeshadow with Butterfly,56,0.56%,Epic
+Eye,Doge Golden with Diamond Eyebrows and Blush,57,0.57%,Epic
+Eye,Luminous Closed Eyes with Stars,59,0.59%,Epic
+Eye,Crying with Blush,60,0.60%,Epic
+Eye,Sad Golden,61,0.61%,Epic
+Eye,Stare Honey with Blush,64,0.64%,Epic
+Eye,Heart Eyes with Hearts and Blush,66,0.66%,Epic
+Eye,Golden Eyeshadow with Diamond Eyebrows and Blush,69,0.69%,Epic
+Eye,Stare Golden,72,0.72%,Epic
+Eye,Cry with Blush,73,0.73%,Epic
+Eye,Doge Golden with Blush,73,0.73%,Epic
+Eye,Lilac Eyeshadow with Butterfly and Blush,76,0.76%,Epic
+Eye,WOW with Metallic Eyebrows,78,0.78%,Epic
+Eye,Golden Shiny Eyeshadow with Blush,82,0.82%,Epic
+Eye,Green Eyeshadow with Diamond Eyebrows,82,0.82%,Epic
+Eye,Lilac Shiny Eyeshadow with Blush,82,0.82%,Epic
+Eye,Doge Golden,83,0.83%,Epic
+Eye,Wink Aquamarine with Blush,85,0.85%,Epic
+Eye,Golden Eyeshadow with Diamond Eyebrows,86,0.86%,Epic
+Eye,Green Eyeshadow with Butterfly and Blush,87,0.87%,Epic
+Eye,Wink Silver,88,0.88%,Epic
+Eye,Sweat,95,0.95%,Epic
+Eye,LOL with Blush,97,0.97%,Epic
+Eye,Green Eyeshadow with Butterfly,102,1.02%,Epic
+Eye,Lilac Eyeshadow with Butterfly,104,1.04%,Epic
+Eye,Luminous Closed Eyes,104,1.04%,Epic
+Eye,Green Eyeshadow with Diamond Eyebrows and Blush,108,1.08%,Epic
+Eye,LOL,118,1.18%,Epic
+Eye,Luminous Stare,119,1.19%,Epic
+Eye,Stare Golden with Blush,125,1.25%,Epic
+Eye,Lilac Eyeshadow with Diamond Eyebrows,134,1.34%,Epic
+Eye,Wink Silver with Blush,144,1.44%,Epic
+Eye,Wink Golden,153,1.53%,Epic
+Eye,Luminous Gentle Eyes,157,1.57%,Epic
+Eye,Luminous WOW,160,1.60%,Epic
+Eye,Wink Lilac,162,1.62%,Epic
+Eye,Smiling with Blush,165,1.65%,Epic
+Eye,Lilac Shiny Eyeshadow,177,1.77%,Epic
+Eye,Smile with Diamond Eyebrows,181,1.81%,Epic
+Eye,Sweat with Blush,188,1.88%,Epic
+Eye,Smile with Diamond Eyebrows and Blush,192,1.92%,Epic
+Eye,Smile with Blush,193,1.93%,Epic
+Eye,Luminous Smile,195,1.95%,Epic
+Eye,Wink Lilac with Blush,202,2.02%,Rare
+Eye,Smile,210,2.10%,Rare
+Eye,Luminous Doge,217,2.17%,Rare
+Eye,Wink Golden with Blush,257,2.57%,Rare
+Eye,Closed Eyes with Stars,259,2.59%,Rare
+Eye,Wink Green,278,2.78%,Rare
+Eye,Luminous Wink,317,3.17%,Rare
+Eye,Closed Eyes with Stars and Blush,338,3.38%,Rare
+Eye,Wink Green with Blush,422,4.22%,Rare
+Eye,Tipsy,431,4.31%,Rare
+Eye,WOW,530,5.30%,Common
+Face Accessories,Exotic Crypto Glasses,1,0.01%,Mythic
+Face Accessories,Iridescent Mask,2,0.02%,Mythic
+Face Accessories,Diamond Sunglasses,3,0.03%,Mythic
+Face Accessories,Exotic Glasses,3,0.03%,Mythic
+Face Accessories,Black Shiny Eye Mask,4,0.04%,Mythic
+Face Accessories,Diamond Eye Mask,4,0.04%,Mythic
+Face Accessories,Golden Foil Mask,4,0.04%,Mythic
+Face Accessories,Crypto Eye Mask,6,0.06%,Mythic
+Face Accessories,Face Visor,7,0.07%,Mythic
+Face Accessories,Lemon Eye Mask,10,0.10%,Mythic
+Face Accessories,Cucumber Eye Mask,11,0.11%,Legendary
+Face Accessories,Black Mask,12,0.12%,Legendary
+Face Accessories,Iridescent Motorcycle Helmet,17,0.17%,Legendary
+Face Accessories,Platinum Butterfly Mask,18,0.18%,Legendary
+Face Accessories,White Eye Mask,18,0.18%,Legendary
+Face Accessories,Silver Butterfly Mask,19,0.19%,Legendary
+Face Accessories,Black Motorcycle Helmet,21,0.21%,Legendary
+Face Accessories,Gold Foil Eye Mask,24,0.24%,Legendary
+Face Accessories,Animal Print Sleep Mask,29,0.29%,Legendary
+Face Accessories,Sky Blue Silk Sleep Mask with Eyelashes,31,0.31%,Legendary
+Face Accessories,Aquamarine Money Sunglasses,42,0.42%,Legendary
+Face Accessories,Pink Money Sunglasses,43,0.43%,Legendary
+Face Accessories,Diving Mask,53,0.53%,Epic
+Face Accessories,Pink Silk Good Night Sleep Mask,53,0.53%,Epic
+Face Accessories,Black Motorcycle Glasses,59,0.59%,Epic
+Face Accessories,Silver Mask,64,0.64%,Epic
+Face Accessories,Motorcycle Glasses,77,0.77%,Epic
+Face Accessories,Rimless Rectangle Sunglasses,78,0.78%,Epic
+Face Accessories,Mole Under Eye,89,0.89%,Epic
+Face Accessories,Smart Glasses,93,0.93%,Epic
+Face Accessories,Ski Goggles,94,0.94%,Epic
+Face Accessories,FVFC Eye Tattoo,96,0.96%,Epic
+Face Accessories,Mole,144,1.44%,Epic
+Face Accessories,Iridescent Frame Glasses,156,1.56%,Epic
+Face Accessories,Iridescent Butterfly Sunglasses,179,1.79%,Epic
+Face Accessories,White Butterfly Sunglasses,189,1.89%,Epic
+Face Accessories,VR Headset,200,2.00%,Epic
+Face Accessories,Heart Sunglasses,208,2.08%,Rare
+Face Accessories,Rose Gold Frame Glasses,286,2.86%,Rare
+Face Accessories,Retro Sunglasses,731,7.31%,Common
+Hair,Aquamarine Flip Hair,1,0.01%,Mythic
+Hair,Peach Flowing Short Hair,1,0.01%,Mythic
+Hair,Pink Teddy Bear Curls,1,0.01%,Mythic
+Hair,Aquamarine Two Afro Puffs,2,0.02%,Mythic
+Hair,Pink Cornrow Braids,2,0.02%,Mythic
+Hair,Green Teddy Bear Curls,3,0.03%,Mythic
+Hair,Aquamarine Slightly Curled Hair,4,0.04%,Mythic
+Hair,Iridescent Headscarf,4,0.04%,Mythic
+Hair,Magenta Outward Short Hair,4,0.04%,Mythic
+Hair,Green Curly Hair,5,0.05%,Mythic
+Hair,Sky Blue Teddy Bear Curls,5,0.05%,Mythic
+Hair,Green Updo,6,0.06%,Mythic
+Hair,Sky Blue Outward Short Hair,6,0.06%,Mythic
+Hair,Aquamarine Cornrow Braids,7,0.07%,Mythic
+Hair,Iridescent Hair Towel,7,0.07%,Mythic
+Hair,Rose Gold Outward Short Hair,7,0.07%,Mythic
+Hair,Unicorn Curly Hair,7,0.07%,Mythic
+Hair,Graffiti Headscarf,8,0.08%,Mythic
+Hair,Sky Blue Curly Hair,8,0.08%,Mythic
+Hair,Aquamarine Flowing Long Hair,9,0.09%,Mythic
+Hair,Orange Cornrow Braids,9,0.09%,Mythic
+Hair,Unicorn Fishbone Braid,9,0.09%,Mythic
+Hair,Gold Outward Short Hair,10,0.10%,Mythic
+Hair,Green Straight Hair,10,0.10%,Mythic
+Hair,Sky Blue Shoulder Length Hair,10,0.10%,Mythic
+Hair,Unicorn Flip Hair,10,0.10%,Mythic
+Hair,Black Cornrow Braids,11,0.11%,Legendary
+Hair,Brown Outward Short Hair,11,0.11%,Legendary
+Hair,Magenta Curly Hair,11,0.11%,Legendary
+Hair,Aquamarine Centre Parting,12,0.12%,Legendary
+Hair,Mint Centre Parting,14,0.14%,Legendary
+Hair,Pink Flip Hair,14,0.14%,Legendary
+Hair,Rose Gold Shoulder Length Hair,14,0.14%,Legendary
+Hair,Gold Teddy Bear Curls,15,0.15%,Legendary
+Hair,Mint Box Braids,15,0.15%,Legendary
+Hair,Ginger Teddy Bear Curls,16,0.16%,Legendary
+Hair,Golden Outward Short Hair,16,0.16%,Legendary
+Hair,Orange Two Afro Puffs,16,0.16%,Legendary
+Hair,Silver Curly Hair,16,0.16%,Legendary
+Hair,Black and Gold Curly Hair,17,0.17%,Legendary
+Hair,Hair Towel,17,0.17%,Legendary
+Hair,Iridescent Centre Parting,17,0.17%,Legendary
+Hair,Silver Outward Short Hair,17,0.17%,Legendary
+Hair,Pink Two Afro Puffs,20,0.20%,Legendary
+Hair,Sky Blue Hair with Diamond Head Chain,21,0.21%,Legendary
+Hair,Peach Centre Parting,23,0.23%,Legendary
+Hair,Ginger Hair with Diamond Head Chain,24,0.24%,Legendary
+Hair,Gold Bob,25,0.25%,Legendary
+Hair,Iridescent Slightly Curled Hair,25,0.25%,Legendary
+Hair,Luminous Slightly Curled Hair,25,0.25%,Legendary
+Hair,Aquamarine Afro Hair,26,0.26%,Legendary
+Hair,Black Curly Hair,26,0.26%,Legendary
+Hair,Brown Shoulder Length Hair,26,0.26%,Legendary
+Hair,Golden Flip Hair,26,0.26%,Legendary
+Hair,Golden Giant Bow,27,0.27%,Legendary
+Hair,Pink Double Buns,27,0.27%,Legendary
+Hair,Peach Geisha,28,0.28%,Legendary
+Hair,Luminous Teddy Bear Curls,29,0.29%,Legendary
+Hair,Silver Flip Hair,29,0.29%,Legendary
+Hair,Golden Curly Hair,30,0.30%,Legendary
+Hair,Unicorn Straight Hair,30,0.30%,Legendary
+Hair,Black Outward Short Hair,31,0.31%,Legendary
+Hair,Golden Fishbone Braid,31,0.31%,Legendary
+Hair,Star Hair Pin,31,0.31%,Legendary
+Hair,Brown Flowing Short Hair,34,0.34%,Legendary
+Hair,Lilac Wool Roll Hair,34,0.34%,Legendary
+Hair,Pink Giant Bow,35,0.35%,Legendary
+Hair,Rose Gold Straight Hair,35,0.35%,Legendary
+Hair,Ginger Loose Updo,36,0.36%,Legendary
+Hair,Pink Afro Hair,37,0.37%,Legendary
+Hair,Black Teddy Bear Curls,38,0.38%,Legendary
+Hair,Magenta Updo,38,0.38%,Legendary
+Hair,Pink Updo,40,0.40%,Legendary
+Hair,Black Hair with Diamond Head Chain,41,0.41%,Legendary
+Hair,Magenta Centre Parting,42,0.42%,Legendary
+Hair,Pink Box Braids,42,0.42%,Legendary
+Hair,Luminous Cornrow Braids,45,0.45%,Legendary
+Hair,Unicorn Flowing Long Hair,45,0.45%,Legendary
+Hair,Orange Afro Hair,46,0.46%,Legendary
+Hair,Golden Curly Long Hair,47,0.47%,Legendary
+Hair,Peach Wool Roll Hair,47,0.47%,Legendary
+Hair,Lilac Ponytail,49,0.49%,Legendary
+Hair,Brown Hair with Diamond Head Chain,50,0.50%,Legendary
+Hair,Mint Ponytail,53,0.53%,Epic
+Hair,Peach Flowing Long Hair,54,0.54%,Epic
+Hair,Black Flip Hair,55,0.55%,Epic
+Hair,Magenta Hair with Pink Headscarf,56,0.56%,Epic
+Hair,Sky Blue Bob,56,0.56%,Epic
+Hair,Pink Hair with Black Hairband,57,0.57%,Epic
+Hair,Silver Teddy Bear Curls,58,0.58%,Epic
+Hair,Black Updo,61,0.61%,Epic
+Hair,Sky Blue Straight Hair,63,0.63%,Epic
+Hair,Golden Loose Updo,66,0.66%,Epic
+Hair,Golden Half Up,67,0.67%,Epic
+Hair,Brown Updo,68,0.68%,Epic
+Hair,Brown Fishbone Braid,71,0.71%,Epic
+Hair,Brown Slightly Curled Hair,71,0.71%,Epic
+Hair,Black Two Afro Puffs,77,0.77%,Epic
+Hair,Luminous Outward Short Hair,77,0.77%,Epic
+Hair,Silver Hair with Pink Headscarf,81,0.81%,Epic
+Hair,Golden Geisha,82,0.82%,Epic
+Hair,Lilac Hair with Iridescent Hairband,83,0.83%,Epic
+Hair,Black Centre Parting,84,0.84%,Epic
+Hair,Silver Hair with Golden Headscarf,88,0.88%,Epic
+Hair,Pink Ponytail,92,0.92%,Epic
+Hair,Silver Loose Updo,94,0.94%,Epic
+Hair,Sky Blue Hair with Golden Headscarf,98,0.98%,Epic
+Hair,Black Hair with Golden Headscarf,103,1.03%,Epic
+Hair,Aquamarine Hair with Platinum Hairband,104,1.04%,Epic
+Hair,Gold Hair with White Diamond Headscarf,104,1.04%,Epic
+Hair,Silver Updo,104,1.04%,Epic
+Hair,Golden Straight Hair,110,1.10%,Epic
+Hair,Luminous Geisha,110,1.10%,Epic
+Hair,Golden Centre Parting,116,1.16%,Epic
+Hair,Black Geisha,117,1.17%,Epic
+Hair,Gold Wool Roll Hair,126,1.26%,Epic
+Hair,Gold Flowing Long Hair,135,1.35%,Epic
+Hair,Gold Double Buns,137,1.37%,Epic
+Hair,Golden Wavy Hair,147,1.47%,Epic
+Hair,Black Box Braids,160,1.60%,Epic
+Hair,Black Wool Roll Hair,161,1.61%,Epic
+Hair,Golden Ponytail,161,1.61%,Epic
+Hair,Brown Hair with White Headscarf,166,1.66%,Epic
+Hair,Luminous Flip Hair,172,1.72%,Epic
+Hair,Luminous Two Afro Puffs,176,1.76%,Epic
+Hair,Black Ponytail,181,1.81%,Epic
+Hair,Black Straight Hair,181,1.81%,Epic
+Hair,Gold Hair with Iridescent Hairband,184,1.84%,Epic
+Hair,Brown Wool Roll Hair,189,1.89%,Epic
+Hair,Peach Hair with Iridescent Hairband,195,1.95%,Epic
+Hair,Gold Hair with Black Hairband,203,2.03%,Rare
+Hair,Brown Flowing Long Hair,215,2.15%,Rare
+Hair,Poker Hair Pin,217,2.17%,Rare
+Hair,Black Double Buns,220,2.20%,Rare
+Hair,Luminous Flowing Short Hair,224,2.24%,Rare
+Hair,Luminous Double Buns,255,2.55%,Rare
+Hair,Luminous Loose Updo,275,2.75%,Rare
+Hair,Black Afro Hair,307,3.07%,Rare
+Hair,Silver Straight Hair,310,3.10%,Rare
+Hair,Brown Loose Updo,441,4.41%,Rare
+Hair,Silver Bob,537,5.37%,Common
+Hand Prep,Crypto Pizza,9,0.09%,Mythic
+Hand Prep,Suspended Diamond,28,0.28%,Legendary
+Hand Prep,Pizza,35,0.35%,Legendary
+Hand Prep,VR Controller,51,0.51%,Epic
+Hand Prep,French Fries,71,0.71%,Epic
+Hand Prep,VR Steering Wheel,105,1.05%,Epic
+Hand Prep,VR Move Motion Controller,133,1.33%,Epic
+Hand Prep,Yeah with Classical Jewelry,135,1.35%,Epic
+Hand Prep,Pink Boxing Gloves,166,1.66%,Epic
+Hand Prep,Pineapple,197,1.97%,Epic
+Hand Prep,Iridescent Boxing Gloves,205,2.05%,Rare
+Hand Prep,Coconut,281,2.81%,Rare
+Hand Prep,Floating Diamond,282,2.82%,Rare
+Hand Prep,Yeah with Stylish Jewelry,352,3.52%,Rare
+Hat,Aquamarine Devil Cap,1,0.01%,Mythic
+Hat,FVFC Eats Hat,1,0.01%,Mythic
+Hat,Aquamarine Devil Cap with Veil,3,0.03%,Mythic
+Hat,Devil Cap with Veil,4,0.04%,Mythic
+Hat,Pink Leopard Print Hat with Veil,4,0.04%,Mythic
+Hat,Black Wide Brim Hat,5,0.05%,Mythic
+Hat,Leopard Print Hat with Veil,7,0.07%,Mythic
+Hat,Lilac Cowboy Hat with Pearls,9,0.09%,Mythic
+Hat,Rose Jacket Hat,9,0.09%,Mythic
+Hat,Black Cowboy Hat with Pearls,10,0.10%,Mythic
+Hat,Iridescent Devil Cap with Veil,13,0.13%,Legendary
+Hat,Golden Headscarf with Bow,16,0.16%,Legendary
+Hat,Black Shiny Newsboy Cap,17,0.17%,Legendary
+Hat,Golden Feather,26,0.26%,Legendary
+Hat,Green Cowboy Hat with Pearls,27,0.27%,Legendary
+Hat,Flower Crown,28,0.28%,Legendary
+Hat,Black Cowboy Hat,32,0.32%,Legendary
+Hat,Iridescent Devil Cap,37,0.37%,Legendary
+Hat,Lilac Cowboy Hat with Flower Crown,37,0.37%,Legendary
+Hat,Graduation Cap,49,0.49%,Legendary
+Hat,Heart Jacket Hat,52,0.52%,Epic
+Hat,Pink Leopard Print Hat,59,0.59%,Epic
+Hat,Iridescent Straw Hat,64,0.64%,Epic
+Hat,Devil Cap,67,0.67%,Epic
+Hat,Leopard Print Hat,77,0.77%,Epic
+Hat,Straw Hat,83,0.83%,Epic
+Hat,Tennis Cap,114,1.14%,Epic
+Hat,White Tennis Cap,122,1.22%,Epic
+Hat,Pink Tennis Cap,136,1.36%,Epic
+Hat,Cat Ear,163,1.63%,Epic
+Hat,Bamboo Hat,164,1.64%,Epic
+Hat,Rose Gold Headphone,352,3.52%,Rare
+Hat,Iridescent Tennis Cap,440,4.40%,Rare
+Head Accessories,Crypto Meme Books,28,0.28%,Legendary
+Head Accessories,FVFC Identity,32,0.32%,Legendary
+Head Accessories,NFT Meme Books,34,0.34%,Legendary
+Head Accessories,Star Crown,40,0.40%,Legendary
+Head Accessories,Dizzy,47,0.47%,Legendary
+Head Accessories,Halo,57,0.57%,Epic
+Left Hand,Lipstick Blue,5,0.05%,Mythic
+Left Hand,Bubble Tea Infusion,10,0.10%,Mythic
+Left Hand,Crypto Bubble Tea Infusion,11,0.11%,Legendary
+Left Hand,Iridescent Crypto Bubble Tea Infusion,11,0.11%,Legendary
+Left Hand,Lipstick Golden,11,0.11%,Legendary
+Left Hand,Lipstick Black,12,0.12%,Legendary
+Left Hand,Lipstick Olive,17,0.17%,Legendary
+Left Hand,Sky Bottle,20,0.20%,Legendary
+Left Hand,Lipstick Orange,33,0.33%,Legendary
+Left Hand,Heart Phone,44,0.44%,Legendary
+Left Hand,Blueberry Lollipop,47,0.47%,Legendary
+Left Hand,Ethereum Phone,48,0.48%,Legendary
+Left Hand,Orange Lollipop,48,0.48%,Legendary
+Left Hand,Bitcoin Phone,53,0.53%,Epic
+Left Hand,Butterfly Phone,54,0.54%,Epic
+Left Hand,Lipstick Cherry,54,0.54%,Epic
+Left Hand,Lipstick Red,59,0.59%,Epic
+Left Hand,Iridescent Phone,61,0.61%,Epic
+Left Hand,Grape Lollipop,65,0.65%,Epic
+Left Hand,Iridescent Bubble Tea Infusion,65,0.65%,Epic
+Left Hand,Guitar,74,0.74%,Epic
+Left Hand,Iridescent Bass,75,0.75%,Epic
+Left Hand,Cloud Bottle,88,0.88%,Epic
+Left Hand,Lipstick Purple,88,0.88%,Epic
+Left Hand,Money,99,0.99%,Epic
+Left Hand,Hovering Diamond,125,1.25%,Epic
+Left Hand,Huge Heart Phone,141,1.41%,Epic
+Left Hand,Iridescent Water Bottle,145,1.45%,Epic
+Left Hand,Dog,146,1.46%,Epic
+Left Hand,Macchiato,183,1.83%,Epic
+Left Hand,Finger Pointing,228,2.28%,Rare
+Left Hand,Coffee Cup,246,2.46%,Rare
+Left Hand,Diamond Hand,260,2.60%,Rare
+Left Hand,Shiny Bass,287,2.87%,Rare
+Left Hand,Cat,294,2.94%,Rare
+Left Hand,Iridescent Coffee Cup,301,3.01%,Rare
+Left Hand,Penguin,312,3.12%,Rare
+Left Hand,Shiny Guitar,337,3.37%,Rare
+Mouth,Kiss Blue with Hearts,1,0.01%,Mythic
+Mouth,Kiss Cherry with Hearts,1,0.01%,Mythic
+Mouth,Kiss Mint with Bubble Gum,1,0.01%,Mythic
+Mouth,Kiss Mint with Hearts,1,0.01%,Mythic
+Mouth,Kiss Olive with Hearts,1,0.01%,Mythic
+Mouth,Kiss Taupe with Hearts,1,0.01%,Mythic
+Mouth,Smile Sky Blue,1,0.01%,Mythic
+Mouth,Grin Orange,2,0.02%,Mythic
+Mouth,Kiss Sky Blue with Hearts,2,0.02%,Mythic
+Mouth,Smile Golden,2,0.02%,Mythic
+Mouth,Grin Blue,3,0.03%,Mythic
+Mouth,Kiss Black with Hearts,3,0.03%,Mythic
+Mouth,Kiss Coral with Hearts,3,0.03%,Mythic
+Mouth,Whistle Mint,4,0.04%,Mythic
+Mouth,Whistle Sky Blue,4,0.04%,Mythic
+Mouth,Kiss Sky Blue with Bubble Gum,5,0.05%,Mythic
+Mouth,Kiss Golden with Hearts,6,0.06%,Mythic
+Mouth,Kiss Mint,6,0.06%,Mythic
+Mouth,Kiss Purple with Hearts,6,0.06%,Mythic
+Mouth,Smile Cherry,6,0.06%,Mythic
+Mouth,Whistle Green,6,0.06%,Mythic
+Mouth,Duck Blue,7,0.07%,Mythic
+Mouth,Duck Olive,7,0.07%,Mythic
+Mouth,Kiss Light Orange with Hearts,8,0.08%,Mythic
+Mouth,Kiss Silver with Hearts,8,0.08%,Mythic
+Mouth,Kiss Pink with Bubble Gum,9,0.09%,Mythic
+Mouth,Kiss Red with Hearts,9,0.09%,Mythic
+Mouth,Kiss Olive with Bubble Gum,10,0.10%,Mythic
+Mouth,Kiss Sky Blue,10,0.10%,Mythic
+Mouth,Whistle Cherry,10,0.10%,Mythic
+Mouth,Whistle Pink,10,0.10%,Mythic
+Mouth,Whistle Blue,11,0.11%,Legendary
+Mouth,Kiss Black with Bubble Gum,12,0.12%,Legendary
+Mouth,Kiss Cherry with Bubble Gum,12,0.12%,Legendary
+Mouth,Kiss Golden with Bubble Gum,12,0.12%,Legendary
+Mouth,Kiss Green,12,0.12%,Legendary
+Mouth,Sneer,12,0.12%,Legendary
+Mouth,Whistle Olive,12,0.12%,Legendary
+Mouth,Kiss Pink,13,0.13%,Legendary
+Mouth,Smile Black,15,0.15%,Legendary
+Mouth,Whistle Black,15,0.15%,Legendary
+Mouth,Grin Sky Blue,16,0.16%,Legendary
+Mouth,Kiss Silver with Bubble Gum,16,0.16%,Legendary
+Mouth,Smile Nude,16,0.16%,Legendary
+Mouth,Kiss Blue with Bubble Gum,17,0.17%,Legendary
+Mouth,LOL,17,0.17%,Legendary
+Mouth,Smile Blue,17,0.17%,Legendary
+Mouth,Smile Olive,18,0.18%,Legendary
+Mouth,Kiss Light Orange with Bubble Gum,19,0.19%,Legendary
+Mouth,Whistle Orange,19,0.19%,Legendary
+Mouth,Smile Mint,23,0.23%,Legendary
+Mouth,Whistle Golden,24,0.24%,Legendary
+Mouth,Whistle Coral,25,0.25%,Legendary
+Mouth,Sad Cherry,26,0.26%,Legendary
+Mouth,Whistle Silver,26,0.26%,Legendary
+Mouth,Duck Sky Blue,27,0.27%,Legendary
+Mouth,Smile Light Orange,27,0.27%,Legendary
+Mouth,Kiss Coral with Bubble Gum,28,0.28%,Legendary
+Mouth,Smile Peach,28,0.28%,Legendary
+Mouth,Duck Orange,31,0.31%,Legendary
+Mouth,Sad Red,32,0.32%,Legendary
+Mouth,Smile Silver,33,0.33%,Legendary
+Mouth,Kiss Olive,38,0.38%,Legendary
+Mouth,Kiss Blue,39,0.39%,Legendary
+Mouth,Smile Coral,40,0.40%,Legendary
+Mouth,Kiss Silver,41,0.41%,Legendary
+Mouth,Luminous Smile,41,0.41%,Legendary
+Mouth,Luminous Sneer,41,0.41%,Legendary
+Mouth,Smile Purple,41,0.41%,Legendary
+Mouth,Duck Silver,42,0.42%,Legendary
+Mouth,Grin Green,43,0.43%,Legendary
+Mouth,Grin Olive,44,0.44%,Legendary
+Mouth,Duck Pink,47,0.47%,Legendary
+Mouth,Kiss Red with Bubble Gum,47,0.47%,Legendary
+Mouth,Duck Golden,50,0.50%,Legendary
+Mouth,Kiss Golden,50,0.50%,Legendary
+Mouth,Kiss Taupe with Bubble Gum,50,0.50%,Legendary
+Mouth,Smile Orange,50,0.50%,Legendary
+Mouth,Grin Golden,51,0.51%,Epic
+Mouth,Kiss Purple with Bubble Gum,52,0.52%,Epic
+Mouth,Duck Black,53,0.53%,Epic
+Mouth,Kiss Cherry,57,0.57%,Epic
+Mouth,Grin Cherry,59,0.59%,Epic
+Mouth,Kiss Black,59,0.59%,Epic
+Mouth,Whistle Light Orange,62,0.62%,Epic
+Mouth,Kiss Coral,64,0.64%,Epic
+Mouth,Smile Red,65,0.65%,Epic
+Mouth,Whistle Purple,65,0.65%,Epic
+Mouth,Kiss Orange,74,0.74%,Epic
+Mouth,Smile Taupe,77,0.77%,Epic
+Mouth,Grin Silver,79,0.79%,Epic
+Mouth,Duck Light Orange,81,0.81%,Epic
+Mouth,Laugh Shiny Sky Blue,81,0.81%,Epic
+Mouth,Duck Mint,84,0.84%,Epic
+Mouth,Kiss Light Orange,94,0.94%,Epic
+Mouth,Whistle Taupe,94,0.94%,Epic
+Mouth,Prpr Cherry,96,0.96%,Epic
+Mouth,Luminous Kiss,98,0.98%,Epic
+Mouth,Grin Light Orange,105,1.05%,Epic
+Mouth,Duck Purple,108,1.08%,Epic
+Mouth,Laugh Sky Blue,108,1.08%,Epic
+Mouth,Smirk,118,1.18%,Epic
+Mouth,Duck Cherry,127,1.27%,Epic
+Mouth,Whistle Red,140,1.40%,Epic
+Mouth,Laugh Shiny Cherry,152,1.52%,Epic
+Mouth,Annoyed,163,1.63%,Epic
+Mouth,Luminous Grin,192,1.92%,Epic
+Mouth,Prpr Red,203,2.03%,Rare
+Mouth,Grin Purple,204,2.04%,Rare
+Mouth,Luminous Prpr,204,2.04%,Rare
+Mouth,Grin Red,209,2.09%,Rare
+Mouth,Laugh Shiny Blue,211,2.11%,Rare
+Mouth,Duck Red,248,2.48%,Rare
+Mouth,Luminous Duck,251,2.51%,Rare
+Mouth,Laugh Cherry,252,2.52%,Rare
+Mouth,Kiss Purple,290,2.90%,Rare
+Mouth,Kiss Taupe,297,2.97%,Rare
+Mouth,Laugh Shiny Red,299,2.99%,Rare
+Mouth,Kiss Red,456,4.56%,Rare
+Mouth,Luminous Open Mouth,561,5.61%,Common
+Mouth,Open Mouth,2189,21.89%,Common
+Necklace,Golden Chain,2,0.02%,Mythic
+Necklace,Pink Leopard Choker,4,0.04%,Mythic
+Necklace,Golden Leopard Choker,5,0.05%,Mythic
+Necklace,Layered Chains,5,0.05%,Mythic
+Necklace,Layered Butterfly Collar,7,0.07%,Mythic
+Necklace,Emeralds,22,0.22%,Legendary
+Necklace,Floral Diamonds,22,0.22%,Legendary
+Necklace,Layered Cube Diamond Choker,26,0.26%,Legendary
+Necklace,Layered Pearls,34,0.34%,Legendary
+Necklace,Diamond Long Necklace,40,0.40%,Legendary
+Necklace,Ruby Lucky Clover,45,0.45%,Legendary
+Necklace,Black Lucky Clover,47,0.47%,Legendary
+Necklace,Diamond Stars,62,0.62%,Epic
+Necklace,Diamond Snake,79,0.79%,Epic
+Necklace,Crypto Long Necklace,83,0.83%,Epic
+Necklace,777 Tattoo,84,0.84%,Epic
+Necklace,FVFC Tattoo,97,0.97%,Epic
+Necklace,Butterfly Diamond Choker,99,0.99%,Epic
+Necklace,Diamond Choker,132,1.32%,Epic
+Necklace,Colored Diamond Choker with Emerald,141,1.41%,Epic
+Necklace,Cube Diamond Choker,147,1.47%,Epic
+Necklace,Colored Diamond Choker,214,2.14%,Rare
+Necklace,Star Pearls,261,2.61%,Rare
+Necklace,Crypto,335,3.35%,Rare
+Right Hand,Matcha Donut,1,0.01%,Mythic
+Right Hand,Money Surfboard,6,0.06%,Mythic
+Right Hand,HODL Surfboard,7,0.07%,Mythic
+Right Hand,Mermaid Ice Cream,10,0.10%,Mythic
+Right Hand,Star Tennis Racket,10,0.10%,Mythic
+Right Hand,Art Deco Surfboard,11,0.11%,Legendary
+Right Hand,Twist Checkerboard Surfboard,12,0.12%,Legendary
+Right Hand,Blueberry Donut,13,0.13%,Legendary
+Right Hand,Chocolate Donut,13,0.13%,Legendary
+Right Hand,Crypto Surfboard,14,0.14%,Legendary
+Right Hand,Golden Rose,18,0.18%,Legendary
+Right Hand,Finger Snapping with Hearts,20,0.20%,Legendary
+Right Hand,Peach Mermaid Ice Cream,20,0.20%,Legendary
+Right Hand,F Tennis Racket,23,0.23%,Legendary
+Right Hand,Finger Snapping with Ethereum and Jewelry,26,0.26%,Legendary
+Right Hand,Diamond Tennis Racket,28,0.28%,Legendary
+Right Hand,Energy Surfboard,28,0.28%,Legendary
+Right Hand,Graffiti Skateboard,28,0.28%,Legendary
+Right Hand,Iridescent Cocktail with Flame,31,0.31%,Legendary
+Right Hand,Art Deco Skateboard,32,0.32%,Legendary
+Right Hand,Iridescent Cocktail with Blue Flame and Jewelry,33,0.33%,Legendary
+Right Hand,Ice Cream,35,0.35%,Legendary
+Right Hand,Iridescent Cocktail with Blue Flame,36,0.36%,Legendary
+Right Hand,Bitcoin Ice Cream,38,0.38%,Legendary
+Right Hand,Heart Tennis Racket,38,0.38%,Legendary
+Right Hand,White Chocolate Donut,39,0.39%,Legendary
+Right Hand,Donut,40,0.40%,Legendary
+Right Hand,Iridescent Cocktail with Flame and Jewelry,42,0.42%,Legendary
+Right Hand,Iridescent Cocktail,43,0.43%,Legendary
+Right Hand,Iridescent Surfboard,43,0.43%,Legendary
+Right Hand,Tropical Cocktail,43,0.43%,Legendary
+Right Hand,Finger Snapping,45,0.45%,Legendary
+Right Hand,Giant Lollipop,46,0.46%,Legendary
+Right Hand,Pink Donut,48,0.48%,Legendary
+Right Hand,Ethereum Ice Cream,54,0.54%,Epic
+Right Hand,Martini,57,0.57%,Epic
+Right Hand,Iridescent Skateboard,58,0.58%,Epic
+Right Hand,Iridescent Champagne,61,0.61%,Epic
+Right Hand,Champagne with Expression,65,0.65%,Epic
+Right Hand,Rose,65,0.65%,Epic
+Right Hand,Champagne with Gold Expression,66,0.66%,Epic
+Right Hand,Wine Glass,67,0.67%,Epic
+Right Hand,Tropical Cocktail with Jewelry,71,0.71%,Epic
+Right Hand,Golden Microphone,75,0.75%,Epic
+Right Hand,Iridescent Cocktail with Jewelry,75,0.75%,Epic
+Right Hand,Peach Umbrella,83,0.83%,Epic
+Right Hand,Whiskey with Jewelry,83,0.83%,Epic
+Right Hand,Cocktail with Jewelry,86,0.86%,Epic
+Right Hand,Champagne with Gold Expression and Jewelry,87,0.87%,Epic
+Right Hand,Microphone,87,0.87%,Epic
+Right Hand,Champagne,89,0.89%,Epic
+Right Hand,Taro Bubble Tea,100,1.00%,Epic
+Right Hand,Cocktail,103,1.03%,Epic
+Right Hand,Bubble Tea,104,1.04%,Epic
+Right Hand,Iridescent Fan,105,1.05%,Epic
+Right Hand,Matcha Bubble Tea,106,1.06%,Epic
+Right Hand,Champagne with Expression and Jewelry,109,1.09%,Epic
+Right Hand,Finger Snapping with Bitcoin and Jewelry,109,1.09%,Epic
+Right Hand,Finger Heart,110,1.10%,Epic
+Right Hand,Martini with Jewelry,113,1.13%,Epic
+Right Hand,Lightsaber,114,1.14%,Epic
+Right Hand,Milky Way Umbrella,118,1.18%,Epic
+Right Hand,Fan,120,1.20%,Epic
+Right Hand,Iridescent Champagne with Jewelry,120,1.20%,Epic
+Right Hand,Iridescent Cigarette,127,1.27%,Epic
+Right Hand,Finger Snapping with Ethereum,131,1.31%,Epic
+Right Hand,Finger Pointing,134,1.34%,Epic
+Right Hand,Whiskey,141,1.41%,Epic
+Right Hand,Iridescent Wine Glass with Jewelry,156,1.56%,Epic
+Right Hand,Finger Snapping with Jewelry,175,1.75%,Epic
+Right Hand,Finger Snapping with Bitcoin,187,1.87%,Epic
+Right Hand,Iridescent Wine Glass,192,1.92%,Epic
+Right Hand,Balloons,194,1.94%,Epic
+Skin,Bronze,595,5.95%,Common
+Skin,Luminous,1388,13.88%,Common
+Skin,Chocolate,2194,21.94%,Common
+Skin,Ivory,5823,58.23%,Common
