@@ -17,11 +17,11 @@
 FVFC evaluates rarity across two clear dimensions:
 
 1. **Overall Rarity Rank (Gallery & NFT Pages)**: Your NFT’s total rarity ranking across all 10,000 pieces based on its combined trait scores.
-   - 🌟 **Legendary**: Top 1% (Rank #1 ~ #100)
-   - 🔥 **Epic**: Top 5% (Rank #101 ~ #500)
-   - 💎 **Rare**: Top 20% (Rank #501 ~ #2000)
-   - ⚡ **Uncommon**: Top 50% (Rank #2001 ~ #5000)
-   - 🎯 **Common**: Standard Tier (Rank #5001 ~ #10000)
+   - **Legendary**: Top 1% (Rank #1 ~ #100)
+   - **Epic**: Top 5% (Rank #101 ~ #500)
+   - **Rare**: Top 20% (Rank #501 ~ #2000)
+   - **Uncommon**: Top 50% (Rank #2001 ~ #5000)
+   - **Common**: Standard Tier (Rank #5001 ~ #10000)
 2. **Trait Count Tier (Craftsmanship)**: How many individual traits your NFT wears, ranging from 7 to 13 traits across our 40-layer stack.
 
 ---
@@ -32,13 +32,13 @@ Across the 10,000 Vani NFTs, each NFT contains 7 to 13 traits:
 
 | Trait Count | Count (NFTs) | Percentage (%) | Tier Name | Description |
 | :--- | :--- | :--- | :--- | :--- |
-| **13 Traits** | **3** | **0.03%** | 👑 **Mythic** | Ultra-rare fully equipped grail NFTs |
-| **12 Traits** | **38** | **0.38%** | 🌟 **Legendary** | Top-tier complex luxury combinations |
-| **11 Traits** | **309** | **3.09%** | 🔥 **Epic** | Premium high-layer collector pieces |
-| **10 Traits** | **1,714** | **17.14%** | 💎 **Rare** | Statement looks with rich accessories |
-| **9 Traits** | **3,968** | **39.68%** | ⚡ **Prime** | Signature community archetype looks |
-| **8 Traits** | **3,248** | **32.48%** | 🎯 **Classic** | Clean and balanced classic styles |
-| **7 Traits** | **720** | **7.20%** | 📦 **Minimal** | Pure and minimal foundational looks |
+| **13 Traits** | **3** | **0.03%** | **Mythic** | Ultra-rare fully equipped grail NFTs |
+| **12 Traits** | **38** | **0.38%** | **Legendary** | Top-tier complex luxury combinations |
+| **11 Traits** | **309** | **3.09%** | **Epic** | Premium high-layer collector pieces |
+| **10 Traits** | **1,714** | **17.14%** | **Rare** | Statement looks with rich accessories |
+| **9 Traits** | **3,968** | **39.68%** | **Prime** | Signature community archetype looks |
+| **8 Traits** | **3,248** | **32.48%** | **Classic** | Clean and balanced classic styles |
+| **7 Traits** | **720** | **7.20%** | **Minimal** | Pure and minimal foundational looks |
 | **Total** | **10,000** | **100.00%** | — | Complete 10,000 collection |
 
 ---
@@ -88,11 +88,11 @@ The rarest individual traits across the collection include:
 ## 5. Machine-Readable Dataset
 
 The complete 881-row itemized dataset with exact counts, percentages, and rarity tiers is available in:
-- 📊 **[`FVFC_Trait_Rarity_Dataset.csv`](./FVFC_Trait_Rarity_Dataset.csv)**
+- **[`FVFC_Trait_Rarity_Dataset.csv`](./FVFC_Trait_Rarity_Dataset.csv)**
 
 ---
 
-## 🌐 Official Verification Links
+## Official Verification Links
 
 - **Official Website**: [https://futurevanityfairclub.com](https://futurevanityfairclub.com)
 - **Craftsmanship**: [https://futurevanityfairclub.com/craftsmanship](https://futurevanityfairclub.com/craftsmanship)
