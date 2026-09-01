@@ -43,27 +43,29 @@ Across the 10,000 Vani NFTs, each NFT contains 7 to 13 traits:
 
 ---
 
-## 3. 16 Primary Trait Types (881 Total Values)
+## 3. 16 Primary Trait Categories (881 Total Values)
 
-| Trait Type | Unique Values | Representative Traits | Rarity Range |
+*This table provides an architectural overview of all 16 primary categories across the 40-layer visual stack. Core compact categories (Skin, Atmosphere, Body Accessories, Head Accessories) are 100% itemized below, while large categories highlight top iconic traits. The full itemized 881-row dataset is available in [`FVFC_Trait_Rarity_Dataset.csv`](./FVFC_Trait_Rarity_Dataset.csv).*
+
+| Trait Category | Unique Traits | Category Breakdown & Iconic Traits | Rarity Range |
 | :--- | :--- | :--- | :--- |
-| **Eye** | **182** | WOW, Wink, Metallic Eyebrows, Closed Eyes with Stars, etc. | 0.01% ~ 5.30% |
-| **Hair** | **141** | Silver Bob, Afro Hair, Double Buns, Geisha, Headscarf, etc. | 0.01% ~ 5.37% |
-| **Cloth** | **130** | Red Velvet Dress, Pink Leopard Bikini, FVFC Suit, Surf Wear, etc. | 0.06% ~ 1.97% |
-| **Mouth** | **121** | Open Mouth, Kiss Taupe, Bubble Gum, Prpr, Grin, etc. | 0.01% ~ 21.89% |
-| **Right Hand** | **73** | Bitcoin Snap, Champagne, Whisky, Balloons, Matcha Donut, etc. | 0.01% ~ 1.94% |
-| **Earring** | **40** | Double Diamond, Emerald, Heart, Amethyst, Crypto, etc. | 0.02% ~ 11.10% |
-| **Face Accessories** | **40** | Moto Helmet, Retro Sunglasses, VR Headset, Exotic Crypto Glasses, etc. | 0.01% ~ 7.31% |
-| **Left Hand** | **38** | Shiny Guitar, Bass, Butterfly Phone, Cute Cat, Wine Glass, etc. | 0.05% ~ 3.37% |
-| **Hat** | **33** | Green Cowboy Hat, Aquamarine Devil Cap, Tennis Cap, Beret, etc. | 0.01% ~ 4.40% |
-| **Background** | **27** | Cyber City, Space, Coconut Trees Sunset, Gallery, Crypto, etc. | 0.61% ~ 10.34% |
-| **Necklace** | **24** | Butterfly Diamond Choker, Cube Diamond, Golden Chain, etc. | 0.02% ~ 3.35% |
-| **Hand Prep** | **14** | Floating Diamond, Yeah Gesture, Crypto Pizza, etc. | 0.09% ~ 3.52% |
-| **Head Accessories** | **6** | Halo Headpiece, Crypto Meme Books, Crown, etc. | 0.28% ~ 0.57% |
-| **Body Accessories** | **5** | Mermaid Body, Heart Yoga Mat, etc. | 0.07% ~ 0.52% |
-| **Skin** | **4** | Ivory (58.23%), Chocolate (21.94%), Luminous (13.88%), Bronze (5.95%) | 5.95% ~ 58.23% |
-| **Atmosphere** | **3** | Get Rich (2.36%), Firefly (0.26%), Unicorn (0.16%) | 0.16% ~ 2.36% |
-| **Total Summary** | **881 Values** | **16 Primary Trait Types across 40 Layers** | **0.01% ~ 58.23%** |
+| **Skin** | **4 (All Listed)** | Ivory (58.23%), Chocolate (21.94%), Luminous (13.88%), Bronze (5.95%) | 5.95% ~ 58.23% |
+| **Atmosphere** | **3 (All Listed)** | Get Rich (2.36%), Firefly (0.26%), Unicorn (0.16%) | 0.16% ~ 2.36% |
+| **Body Accessories** | **5 (All Listed)** | Heart Yoga Mat (0.07%), Cyber Wings (0.12%), Golden Feather Wings (0.47%), Mermaid Body (0.52%), Wings (0.52%) | 0.07% ~ 0.52% |
+| **Head Accessories** | **6 (All Listed)** | Crypto Meme Books (0.28%), FVFC Identity (0.32%), NFT Meme Books (0.34%), Star Crown (0.40%), Dizzy (0.47%), Halo (0.57%) | 0.28% ~ 0.57% |
+| **Hand Prep** | **14 (All in CSV)** | Crypto Pizza (0.09%), Suspended Diamond, VR Controller, Floating Diamond (2.82%), Boxing Gloves, etc. (14 styles) | 0.09% ~ 3.52% |
+| **Necklace** | **24 (All in CSV)** | Golden Chain (0.02%), Pink Leopard Choker (0.04%), Layered Chains, Cube Diamond, Ruby Clover, etc. (24 styles) | 0.02% ~ 3.35% |
+| **Background** | **27 (All in CSV)** | Tender (0.61%), Crypto (0.70%), Cyber City, Sunset Gradient, Stage, Candlestick, Pool Party, etc. (27 styles) | 0.61% ~ 10.34% |
+| **Hat** | **33 (All in CSV)** | Aquamarine Devil Cap (0.01%), FVFC Eats Hat (0.01%), Cowboy Hat with Pearls, Newsboy Cap, etc. (33 styles) | 0.01% ~ 4.40% |
+| **Left Hand** | **38 (All in CSV)** | Lipstick Blue (0.05%), Bubble Tea, Sky Bottle, Bitcoin Phone, Ethereum Phone, Butterfly Phone, etc. (38 styles) | 0.05% ~ 3.37% |
+| **Earring** | **40 (All in CSV)** | Citrine (0.02%), Double Diamond, Silver Chain, Emerald, Shuriken, Ruby Teardrop, etc. (40 styles) | 0.02% ~ 11.10% |
+| **Face Accessories** | **40 (All in CSV)** | Exotic Crypto Glasses (0.01%), Iridescent Mask (0.02%), Diamond Sunglasses, VR Headset, Moto Helmet, etc. (40 styles) | 0.01% ~ 7.31% |
+| **Right Hand** | **73 (All in CSV)** | Matcha Donut (0.01%), Money Surfboard (0.06%), HODL Surfboard, Mermaid Ice Cream, Star Tennis Racket, etc. (73 styles) | 0.01% ~ 1.94% |
+| **Mouth** | **121 (All in CSV)** | Kiss with Hearts (0.01%), Bubble Gum, Open Mouth, Prpr, Grin, Whistle, Smile, etc. (121 styles) | 0.01% ~ 21.89% |
+| **Cloth** | **130 (All in CSV)** | Pink Leopard Bikini (0.06%), Bubble Dress (0.12%), Chinese Ink Suit (0.18%), Surf Wear, Evening Gowns, etc. (130 styles) | 0.06% ~ 1.97% |
+| **Hair** | **141 (All in CSV)** | Aquamarine Flip (0.01%), Teddy Bear Curls, Cornrow Braids, Silver Bob, Geisha, Headscarf, etc. (141 styles) | 0.01% ~ 5.37% |
+| **Eye** | **182 (All in CSV)** | Metallic Eyebrows (0.01%), Feather Eyelashes (0.01%), WOW, Wink, Stare with Stars, Closed Eyes, etc. (182 styles) | 0.01% ~ 5.30% |
+| **Total Summary** | **881 Unique Values** | **16 Primary Trait Categories across 40 Independent Layers** | **0.01% ~ 58.23%** |
 
 ---
 
