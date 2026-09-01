@@ -5,8 +5,8 @@
 # FVFC NFT Rarity & Trait Distribution Whitepaper
 
 > **Project**: Future Vanity Fair Club (FVFC)  
-> **Total Supply**: 10,000 Unique Digital Beings (Token #0 ~ #9999)  
-> **Trait System**: 881 Unique Trait Values across 16 Primary Trait Types (40 Independent Layers)  
+> **Total Supply**: 10,000 Vani NFTs (Token #0 ~ #9999)  
+> **Trait System**: 881 Unique Traits across 16 Primary Trait Categories (40 Independent Layers)  
 > **Algorithmic Logic**: 2,000+ Generation & Pairing Rules  
 > **Dataset File**: [`FVFC_Trait_Rarity_Dataset.csv`](./FVFC_Trait_Rarity_Dataset.csv) (Complete 881-row itemized dataset)  
 
