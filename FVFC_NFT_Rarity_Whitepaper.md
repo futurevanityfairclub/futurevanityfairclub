@@ -30,16 +30,16 @@ FVFC evaluates rarity across two clear dimensions:
 
 Across the 10,000 Vani NFTs, each NFT contains 7 to 13 traits:
 
-| Trait Count | Count (NFTs) | Percentage (%) | Tier Name | Description |
-| :--- | :--- | :--- | :--- | :--- |
-| **13 Traits** | **3** | **0.03%** | **Mythic** | Ultra-rare fully equipped grail NFTs |
-| **12 Traits** | **38** | **0.38%** | **Legendary** | Top-tier complex luxury combinations |
-| **11 Traits** | **309** | **3.09%** | **Epic** | Premium high-layer collector pieces |
-| **10 Traits** | **1,714** | **17.14%** | **Rare** | Statement looks with rich accessories |
-| **9 Traits** | **3,968** | **39.68%** | **Prime** | Signature community archetype looks |
-| **8 Traits** | **3,248** | **32.48%** | **Classic** | Clean and balanced classic styles |
-| **7 Traits** | **720** | **7.20%** | **Minimal** | Pure and minimal foundational looks |
-| **Total** | **10,000** | **100.00%** | — | Complete 10,000 collection |
+| Trait Count | Count (NFTs) | Percentage (%) | Tier Name |
+| :--- | :--- | :--- | :--- |
+| **13 Traits** | **3** | **0.03%** | **Mythic** |
+| **12 Traits** | **38** | **0.38%** | **Legendary** |
+| **11 Traits** | **309** | **3.09%** | **Epic** |
+| **10 Traits** | **1,714** | **17.14%** | **Rare** |
+| **9 Traits** | **3,968** | **39.68%** | **Prime** |
+| **8 Traits** | **3,248** | **32.48%** | **Classic** |
+| **7 Traits** | **720** | **7.20%** | **Minimal** |
+| **Total** | **10,000** | **100.00%** | — |
 
 ---
 
