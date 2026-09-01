@@ -97,8 +97,10 @@ All links are strictly aligned with the official website navigation structure:
   - **OpenSea**: [https://opensea.io](https://opensea.io)
   - **Magic Eden**: [https://magiceden.io](https://magiceden.io)
   - **Blur**: [https://blur.io](https://blur.io)
-- **License**: [https://futurevanityfairclub.com/license](https://futurevanityfairclub.com/license)
-- **Terms & Conditions**: [https://futurevanityfairclub.com/terms-and-conditions](https://futurevanityfairclub.com/terms-and-conditions)
+- **Legal**:
+  - **Governance**:
+    - **License**: [https://futurevanityfairclub.com/license](https://futurevanityfairclub.com/license)
+    - **Terms & Conditions**: [https://futurevanityfairclub.com/terms-and-conditions](https://futurevanityfairclub.com/terms-and-conditions)
 - **FAQ**: [https://futurevanityfairclub.com/faq](https://futurevanityfairclub.com/faq)
 - **About FVFC**: [https://futurevanityfairclub.com/fvfc](https://futurevanityfairclub.com/fvfc)
 
