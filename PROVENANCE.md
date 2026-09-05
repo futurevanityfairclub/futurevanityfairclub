@@ -14,12 +14,12 @@
 | Parameter | Value / Identifier | Network / Standard |
 | :--- | :--- | :---: |
 | **ERC-721 Drop Contract** | [`0xcA32FA34ef54B6F69dC08fa401a911F7Dd3dD9cb`](https://etherscan.io/address/0xcA32FA34ef54B6F69dC08fa401a911F7Dd3dD9cb) | Ethereum Mainnet |
-| **Metadata Base URI** | [`ipfs://bafybeifeknbufooufuwsg7v4zalwcvlkyruje4mkqjkm5s5vvuzqnmf77a/`](https://media.futurevanityfairclub.workers.dev/ipfs/bafybeifeknbufooufuwsg7v4zalwcvlkyruje4mkqjkm5s5vvuzqnmf77a/) | IPFS / Filecoin |
-| **Metadata CAR Package** | `metadata_0-9999.car` (12.08 MB / 10,000 JSONs) | Filecoin Mainnet |
-| **Metadata Root CID** | [`bafybeifeknbufooufuwsg7v4zalwcvlkyruje4mkqjkm5s5vvuzqnmf77a`](https://media.futurevanityfairclub.workers.dev/ipfs/bafybeifeknbufooufuwsg7v4zalwcvlkyruje4mkqjkm5s5vvuzqnmf77a/) | IPFS UnixFS |
-| **Metadata Piece CID** | `bafkzcibf5kh7gaitakfqm2pjxpwk62wjkiwtysrb6a4txt4tpdbp2vecwsawsfsvcela` | Filecoin Proof |
-| **Filecoin DataSet / Piece** | DataSet ID `1490` / Piece ID `55` | Provider 7 |
-| **Mainnet Confirmation Tx** | [`0x26918d3445d8d78d6d48315ae1ec03ae5b0d091e4f03bfa7c37b2b36cc8fd1ff`](https://filfox.info/en/message/0x26918d3445d8d78d6d48315ae1ec03ae5b0d091e4f03bfa7c37b2b36cc8fd1ff) | Filecoin Mainnet |
+| **Metadata Base URI** | [`ipfs://bafybeiaunupclh3muvk24f2aknamzpurm6qjpydmtqf7dj5wcrcyxbu3ry/`](https://media.futurevanityfairclub.workers.dev/ipfs/bafybeiaunupclh3muvk24f2aknamzpurm6qjpydmtqf7dj5wcrcyxbu3ry/) | IPFS / Filecoin |
+| **Metadata CAR Package** | `metadata_0-9999.car` (12.03 MB / 10,000 JSONs) | Filecoin Mainnet |
+| **Metadata Root CID** | [`bafybeiaunupclh3muvk24f2aknamzpurm6qjpydmtqf7dj5wcrcyxbu3ry`](https://media.futurevanityfairclub.workers.dev/ipfs/bafybeiaunupclh3muvk24f2aknamzpurm6qjpydmtqf7dj5wcrcyxbu3ry/) | IPFS UnixFS |
+| **Metadata Piece CID** | `bafkzcibf5cqpmaitv5bt33cgalp75uiyi2fkmk5od67bjhikd5dqlzx3ezrqdi6qyeia` | Filecoin Proof |
+| **Filecoin DataSet / Piece** | DataSet ID `1490` / Piece ID `56` | Provider 7 |
+| **Mainnet Confirmation Tx** | [`0x07a416fcd620eb099819bdc7c58a0b438372b6c5e414ca1fb17a1e5fe73aeb64`](https://filfox.info/en/message/0x07a416fcd620eb099819bdc7c58a0b438372b6c5e414ca1fb17a1e5fe73aeb64) | Filecoin Mainnet |
 
 ---
 

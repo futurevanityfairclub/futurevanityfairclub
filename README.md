@@ -62,7 +62,7 @@ Official smart contracts, decentralized storage, and media distribution infrastr
 | Resource | Protocol / Network | Contract / Storage Identifier | Live Verification / Manifest |
 | :--- | :---: | :--- | :--- |
 | **Future Vanity Fair Club (FVFC)** | `ERC-721` (Ethereum) | [`0xcA32FA34ef54B6F69dC08fa401a911F7Dd3dD9cb`](https://etherscan.io/address/0xcA32FA34ef54B6F69dC08fa401a911F7Dd3dD9cb) | [Etherscan Explorer](https://etherscan.io/address/0xcA32FA34ef54B6F69dC08fa401a911F7Dd3dD9cb) |
-| **NFT Metadata (10,000 JSON)** | `IPFS` / `Filecoin` | [`ipfs://bafybeifeknbufooufuwsg7v4zalwcvlkyruje4mkqjkm5s5vvuzqnmf77a/`](https://media.futurevanityfairclub.workers.dev/ipfs/bafybeifeknbufooufuwsg7v4zalwcvlkyruje4mkqjkm5s5vvuzqnmf77a/) | [`View 10k Metadata Root`](https://media.futurevanityfairclub.workers.dev/ipfs/bafybeifeknbufooufuwsg7v4zalwcvlkyruje4mkqjkm5s5vvuzqnmf77a/) |
+| **NFT Metadata (10,000 JSON)** | `IPFS` / `Filecoin` | [`ipfs://bafybeiaunupclh3muvk24f2aknamzpurm6qjpydmtqf7dj5wcrcyxbu3ry/`](https://media.futurevanityfairclub.workers.dev/ipfs/bafybeiaunupclh3muvk24f2aknamzpurm6qjpydmtqf7dj5wcrcyxbu3ry/) | [`View 10k Metadata Root`](https://media.futurevanityfairclub.workers.dev/ipfs/bafybeiaunupclh3muvk24f2aknamzpurm6qjpydmtqf7dj5wcrcyxbu3ry/) |
 | **Artwork Storage (4,000 × 4,000)** | `IPFS` / `Filecoin` | [54 CAR Packages (50.6 GB Vani Artworks)](https://github.com/futurevanityfairclub/futurevanityfairclub/blob/main/PROVENANCE.md) | [PROVENANCE Manifest](https://github.com/futurevanityfairclub/futurevanityfairclub/blob/main/PROVENANCE.md) |
 | **Global Media Gateway** | `Cloudflare Edge` | `media.futurevanityfairclub.workers.dev` | [`Gateway Health Check`](https://media.futurevanityfairclub.workers.dev/health) |
 
