@@ -71,8 +71,9 @@ Official smart contracts, decentralized storage, and media distribution infrastr
 ## ⚡ Web Application Technology Stack
 
 - **Frontend Core**: Next.js 16 (App Router), React 19, TypeScript
-- **Styling & Motion**: Tailwind CSS, Framer Motion, Radix UI, Phosphor Icons, Lucide
+- **Styling & Motion**: Tailwind CSS, Motion (v13), Radix UI, Phosphor Icons, Lucide
 - **Web3 & Contracts**: Thirdweb SDK v5, Viem, 0xSplits Protocol (Splits Warehouse v2)
+- **AI & Agent-Native**: WebMCP Protocol (W3C draft / `navigator.modelContext`) enabling AI browser agents to discover verified official links, query NFT metadata, and inspect contract states via structured tools
 - **Decentralized Storage & Media CDN**: Filecoin Network (Mainnet), IPFS, Cloudflare Workers Global Edge Media Gateway (with 1-year immutable caching)
 - **Reliability & Monitoring**: Automated Health & Media Probes, Upstash KV / Redis, Checkly Synthetic Monitoring, Telegram Ops Notification Bridge
 
