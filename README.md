@@ -94,9 +94,8 @@ All links are strictly aligned with the official website navigation structure:
 - **Gallery**: [https://futurevanityfairclub.com/gallery](https://futurevanityfairclub.com/gallery)
 - **Buy**:
   - **Official Mint**: [https://futurevanityfairclub.com/mint](https://futurevanityfairclub.com/mint)
-  - **OpenSea**: [https://opensea.io](https://opensea.io)
-  - **Magic Eden**: [https://magiceden.io](https://magiceden.io)
-  - **Blur**: [https://blur.io](https://blur.io)
+  - **OpenSea**: [https://opensea.io/collection/future-vanity-fair-club](https://opensea.io/collection/future-vanity-fair-club)
+  - **Blur**: [https://blur.io/collection/0xca32fa34ef54b6f69dc08fa401a911f7dd3dd9cb](https://blur.io/collection/0xca32fa34ef54b6f69dc08fa401a911f7dd3dd9cb)
 - **Legal**:
   - **Governance**:
     - **License**: [https://futurevanityfairclub.com/license](https://futurevanityfairclub.com/license)
