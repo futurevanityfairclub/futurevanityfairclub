@@ -35,7 +35,7 @@ The creation of FVFC represents over two years of artisanal craftsmanship, high-
 
 ## 🪩 5-Layer Infrastructure Framework
 
-FVFC is organized into five conceptual architectural layers. The live mint currently covers Vani's **Visual Layer** as static ERC-721 artwork; programmable persona, agent, IP, economy, and governance layers are future architectural components that may evolve as technology develops:
+FVFC is organized into five conceptual architectural layers. The current mint covers Vani's **Visual Layer** as static ERC-721 artwork; programmable persona, agent, IP, economy, and governance layers are future architectural components that may evolve as technology develops:
 
 ```mermaid
 graph TD
