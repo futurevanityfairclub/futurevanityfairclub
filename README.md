@@ -15,8 +15,8 @@ Vani follows a distinctive aesthetic called **"Future Glam,"** a cyber-luxury lo
 **Future Vanity Fair Club (FVFC)** is an open, decentralized Living IP economy built in Future City. It combines high-fashion art, AI, and crypto where 10,000 Vani NFTs live, create, earn, and grow through their programmable personas.
 
 - **Living IP**: The NFT serves as her visual foundation, while her programmable persona evolves through dynamic modules for identity, talents, wealth, and fame, actively shaping the growth of the club.
-- **Decentralized IP Licensing**: Moves beyond traditional, closed corporate models to decentralized IP protocols, where creators, developers, holders, and AI agents collaborate under clear programmable licensing and automated IP-based rewards.
-- **Agentic IP Economy**: Built on smart contracts and autonomous workflows, AI agents handle business workflows, agent-to-agent payments, automated licensing, and contribution verification, allowing the IP to scale organically.
+- **Decentralized IP Licensing**: Seamless, permissionless licensing worldwide. Smart contracts and x402 allow instant licensing through direct calls without manual approval, streaming royalties in real time.
+- **Agentic IP Economy**: Synthetic leadership starting with Vani #0 as CEO. In Future City, club tasks are listed on the marketplace for Vani to pick, claim, and trade work, while FVFC settles rewards and royalties automatically 24/7 for verified contributions.
 
 ---
 
@@ -35,7 +35,7 @@ The creation of FVFC represents over two years of artisanal craftsmanship, high-
 
 ## 🪩 5-Layer Infrastructure Framework
 
-FVFC is organized into five conceptual architectural layers. The current mint covers Vani's **Visual Layer** as static ERC-721 artwork; programmable persona, agent, IP, economy, and governance layers are future architectural components that may evolve as technology develops:
+FVFC is organized into five conceptual architectural layers. The current mint covers Vani's **Visual Layer** as static ERC-721 artwork; programmable persona, agent, IP, economy, and contribution layers are future architectural components that may evolve as technology develops:
 
 ```mermaid
 graph TD
@@ -43,15 +43,15 @@ graph TD
     FVFC --- A[Visual Layer: ERC-721]
     FVFC --- B[Agent Layer: Programmable Personas]
     FVFC --- C[IP Layer: Programmable Creative Rights]
-    FVFC --- D[Economy Layer: ERC-8004, x402, ERC-8183]
-    FVFC --- E[Governance Layer: ERC-20]
+    FVFC --- D[Economy Layer: ERC-20, 0xSplits, ERC-8004, x402, ERC-8183]
+    FVFC --- E[Contribution Layer: EAS Work Proofs]
 ```
 
-- **Visual Layer (Live)**: ERC-721 standard on Ethereum mainnet, built on Thirdweb's audited smart contracts with 4,000 × 4,000 high-resolution artwork and metadata on IPFS and Filecoin mainnet. Combining 881 hand-drawn traits with algorithmic curation, this genesis layer is Vani’s visual foundation and the collectible base for all subsequent layers.
-- **Agent Layer (Future)**: Integrates AI agents to unlock Vani's programmable persona as a Living IP, expanding her storytelling and capabilities through dynamic modules for identity, talents, wealth, and fame.
-- **IP Layer (Future)**: Programmable Creative Rights. Powers Vani's decentralized IP infrastructure by managing programmable licensing, derivative creations, automated royalty flows, and on-chain provenance.
-- **Economy Layer (Future)**: Built on Base (Layer 2), ERC-8004, x402, and ERC-8183 govern the identity, permissions, payments, and coordination that transform Vani into a living IP economy. Together, they facilitate creator contributions and IP-based rewards.
-- **Governance Layer (Future)**: ERC-20. Designed as the native circulating token for FVFC, this layer supports club commerce, contributor incentives, and decentralized governance.
+- **Visual Layer (Live)**: ERC-721 standard on Ethereum mainnet, built on Thirdweb's audited smart contracts with 4,000 × 4,000 high-resolution artwork and metadata on IPFS and Filecoin mainnet. Combining 881 hand-drawn traits with algorithmic curation, this foundational layer establishes Vani’s visual identity as the starting point for future layers.
+- **Agent Layer (Future)**: Integrates AI agents to unlock Vani's programmable persona as a Living IP through dynamic modules for identity, talents, wealth, and fame.
+- **IP Layer (Future)**: Programmable Creative Rights. This layer manages Vani's programmable creative rights, supporting permissionless IP licensing, flexible IP leasing, and instant licensing through direct calls without manual approval.
+- **Economy Layer (Future)**: Built on Base, the economy layer integrates ERC-20, 0xSplits, and x402 to automate 24/7 club commerce and royalty splits. Through ERC-8004 and ERC-8183, club tasks are listed on the marketplace for Vani to pick, claim, and trade.
+- **Contribution Layer (Future)**: EAS on Base. Built on Ethereum Attestation Service (EAS) on Base, this layer links deliverables and content hashes directly to Vani, establishing verified proofs of contribution to record work and track earned rewards.
 
 ---
 
@@ -62,9 +62,9 @@ Official smart contracts, decentralized storage, and media distribution infrastr
 | Resource | Protocol / Network | Contract / Storage Identifier | Live Verification / Manifest |
 | :--- | :---: | :--- | :--- |
 | **Future Vanity Fair Club (FVFC)** | `ERC-721` (Ethereum) | [`0xcA32FA34ef54B6F69dC08fa401a911F7Dd3dD9cb`](https://etherscan.io/address/0xcA32FA34ef54B6F69dC08fa401a911F7Dd3dD9cb) | [Etherscan Explorer](https://etherscan.io/address/0xcA32FA34ef54B6F69dC08fa401a911F7Dd3dD9cb) |
-| **NFT Metadata (10,000 JSON)** | `IPFS` / `Filecoin` | [`ipfs://bafybeiaunupclh3muvk24f2aknamzpurm6qjpydmtqf7dj5wcrcyxbu3ry/`](https://media.futurevanityfairclub.workers.dev/ipfs/bafybeiaunupclh3muvk24f2aknamzpurm6qjpydmtqf7dj5wcrcyxbu3ry/) | [`View 10k Metadata Root`](https://media.futurevanityfairclub.workers.dev/ipfs/bafybeiaunupclh3muvk24f2aknamzpurm6qjpydmtqf7dj5wcrcyxbu3ry/) |
+| **NFT Metadata (10,000 JSON)** | `IPFS` / `Filecoin` | [`ipfs://bafybeiaunupclh3muvk24f2aknamzpurm6qjpydmtqf7dj5wcrcyxbu3ry/`](https://media.futurevanityfairclub.com/ipfs/bafybeiaunupclh3muvk24f2aknamzpurm6qjpydmtqf7dj5wcrcyxbu3ry/) | [`View 10k Metadata Root`](https://media.futurevanityfairclub.com/ipfs/bafybeiaunupclh3muvk24f2aknamzpurm6qjpydmtqf7dj5wcrcyxbu3ry/) |
 | **Artwork Storage (4,000 × 4,000)** | `IPFS` / `Filecoin` | [54 CAR Packages (50.6 GB Vani Artworks)](https://github.com/futurevanityfairclub/futurevanityfairclub/blob/main/PROVENANCE.md) | [PROVENANCE Manifest](https://github.com/futurevanityfairclub/futurevanityfairclub/blob/main/PROVENANCE.md) |
-| **Global Media Gateway** | `Cloudflare Edge` | `media.futurevanityfairclub.workers.dev` | [`Gateway Health Check`](https://media.futurevanityfairclub.workers.dev/health) |
+| **Global Media Gateway** | `Cloudflare Edge` | `media.futurevanityfairclub.com` | [`Gateway Health Check`](https://media.futurevanityfairclub.com/health) |
 
 ---
 
@@ -75,7 +75,7 @@ Official smart contracts, decentralized storage, and media distribution infrastr
 - **Web3 & Contracts**: Thirdweb SDK v5, Viem, 0xSplits Protocol (Splits Warehouse v2)
 - **AI & Agent-Native**: WebMCP Protocol (W3C draft / `navigator.modelContext`) enabling AI browser agents to discover verified official links, query NFT metadata, and inspect contract states via structured tools
 - **Decentralized Storage & Media CDN**: Filecoin Network (Mainnet), IPFS, Cloudflare Workers Global Edge Media Gateway (with 1-year immutable caching)
-- **Reliability & Monitoring**: Automated Health & Media Probes, Upstash KV / Redis, Checkly Synthetic Monitoring, Telegram Ops Notification Bridge
+- **Reliability & Observability**: On-Chain Transaction & Activity Monitoring, Automated Media Probes, Edge State Caching, Synthetic Uptime & Runtime Observability
 
 ---
 
