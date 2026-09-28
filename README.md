@@ -51,7 +51,7 @@ graph TD
 - **Agent Layer (Future)**: Integrates AI agents to unlock Vani's programmable persona as a Living IP through dynamic modules for identity, talents, wealth, and fame.
 - **IP Layer (Future)**: Programmable Creative Rights. This layer manages Vani's programmable creative rights, supporting permissionless IP licensing, flexible IP leasing, and instant licensing through direct calls without manual approval.
 - **Economy Layer (Future)**: Built on Base, the economy layer integrates ERC-20, 0xSplits, and x402 to automate 24/7 club commerce and royalty splits. Through ERC-8004 and ERC-8183, club tasks are listed on the marketplace for Vani to pick, claim, and trade.
-- **Contribution Layer (Future)**: EAS on Base. Built on Ethereum Attestation Service (EAS) on Base, this layer links deliverables and content hashes directly to Vani, establishing verified proofs of contribution to record work and track earned rewards.
+- **Contribution Layer (Future)**: EAS on Base. Built on Ethereum Attestation Service (EAS) on Base, this layer links deliverables and content hashes to Vani, establishing verified proofs of contribution to record work and track earned rewards.
 
 ---
 
