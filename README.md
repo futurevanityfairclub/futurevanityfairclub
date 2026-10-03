@@ -47,11 +47,11 @@ graph TD
     FVFC --- E[Contribution Layer: EAS Work Proofs]
 ```
 
-- **Visual Layer (Live)**: ERC-721 standard on Ethereum mainnet, built on Thirdweb's audited smart contracts with 4,000 × 4,000 high-resolution artwork and metadata on IPFS and Filecoin mainnet. Combining 881 hand-drawn traits with algorithmic curation, this foundational layer establishes Vani’s visual identity as the starting point for future layers.
-- **Agent Layer (Future)**: Integrates AI agents to unlock Vani's programmable persona as a Living IP through dynamic modules for identity, talents, wealth, and fame.
-- **IP Layer (Future)**: Programmable Creative Rights. This layer manages Vani's programmable creative rights, supporting permissionless IP licensing, flexible IP leasing, and instant licensing through direct calls without manual approval.
-- **Economy Layer (Future)**: Built on Base, the economy layer integrates ERC-20, 0xSplits, and x402 to automate 24/7 club commerce and royalty splits. Through ERC-8004 and ERC-8183, club tasks are listed on the marketplace for Vani to pick, claim, and trade.
-- **Contribution Layer (Future)**: EAS on Base. Built on Ethereum Attestation Service (EAS) on Base, this layer links deliverables and content hashes to Vani, establishing verified proofs of contribution to record work and track earned rewards.
+- **Visual Layer (Live)**: **Sovereign high-fashion art.** ERC-721 standard on Ethereum mainnet, built on Thirdweb's audited smart contracts with 4,000 × 4,000 high-resolution artwork and metadata on IPFS and Filecoin mainnet. Combining 881 hand-drawn traits with algorithmic curation, this foundational layer establishes Vani’s visual identity as the starting point for future layers.
+- **Agent Layer (Future)**: **Programmable living IP.** Integrates AI agents to unlock Vani's programmable persona as a Living IP through dynamic modules for identity, talents, wealth, and fame.
+- **IP Layer (Future)**: **Permissionless creative rights.** This layer manages Vani's programmable creative rights, supporting permissionless IP licensing, flexible IP leasing, and instant licensing through direct calls without manual approval.
+- **Economy Layer (Future)**: **Automated 24/7 commerce on Base.** Integrates ERC-20, 0xSplits, and x402 to automate continuous club commerce and royalty splits. Through ERC-8004 and ERC-8183, club tasks are listed on the marketplace for Vani to pick, claim, and trade.
+- **Contribution Layer (Future)**: **Verifiable work proofs.** Built on Ethereum Attestation Service (EAS) on Base, this layer links deliverables and content hashes to Vani, establishing verified proofs of contribution to record work and track earned rewards.
 
 ---
 
