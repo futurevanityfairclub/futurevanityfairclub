@@ -119,7 +119,7 @@ Official links and website sections:
   - **Telegram**: [Join Telegram](https://t.me/FutureVanityFairClub)
   - **Reddit**: [r/futurevanityfairclub](https://www.reddit.com/r/futurevanityfairclub/)
 - **Editorial**:
-  - **Substack**: [futurevanity.substack.com](https://substack.com/@futurevanity)
+  - **Substack**: [futurevanity.substack.com](https://futurevanity.substack.com)
   - **Pinterest**: [futurevanity](https://www.pinterest.com/futurevanity/)
   - **Medium**: [futurevanity](https://medium.com/@futurevanity)
 - **Build**:
