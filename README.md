@@ -117,7 +117,7 @@ Official links and website sections:
 - **Community**:
   - **Discord**: [Join Discord](https://discord.gg/Dwpk2vXpZD)
   - **Telegram**: [Join Telegram](https://t.me/FutureVanityFairClub)
-  - **Reddit**: [r/futurevanityfairclub](https://www.reddit.com/r/futurevanityfairclub/)
+  - **Reddit**: [r/FVFC_Official](https://www.reddit.com/r/FVFC_Official/)
 - **Editorial**:
   - **Substack**: [futurevanity.substack.com](https://futurevanity.substack.com)
   - **Pinterest**: [futurevanity](https://www.pinterest.com/futurevanity/)
