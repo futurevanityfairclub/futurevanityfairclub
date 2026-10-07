@@ -6,7 +6,7 @@
 
 Welcome to **Future Vanity Fair Club (FVFC)**. Born of beauty and desire, 10,000 Vani awaken as founding residents of Future City. Built on high-fashion art, AI, and crypto, FVFC creates a decentralized agentic IP economy. Every Vani begins as a foundational portrait, designed to become a Living IP through her programmable persona.
 
-Vani follows a distinctive aesthetic called **"Future Glam,"** a cyber-luxury look defined by iridescent gradients, diamonds, digital currency, sci-fi motifs, and a playful, hedonistic spirit. Built from 881 hand-drawn traits and over 2,000 algorithmic rules, each Vani is crafted as one of 10,000 collectible high-fashion portraits selected from about 3 million candidates, with only about 0.33% chosen.
+FVFC defines a distinctive aesthetic called **"Future Glam,"** a cyber-luxury look defined by iridescent gradients, diamonds, digital currency, sci-fi motifs, and a playful, hedonistic spirit. Built from 881 hand-drawn traits and over 2,000 algorithmic rules, each Vani is crafted as one of 10,000 collectible high-fashion portraits selected from about 3 million candidates, with only about 0.33% chosen.
 
 ---
 
@@ -57,14 +57,14 @@ graph TD
 
 ## 📜 Smart Contracts & Decentralized Storage
 
-Official smart contracts, decentralized storage, and media distribution infrastructure deployed on Ethereum, Filecoin Mainnet, and Cloudflare Global Edge:
+Official smart contracts, decentralized storage, and media distribution infrastructure deployed on Ethereum, Filecoin Mainnet, and Global Edge Network:
 
 | Resource | Protocol / Network | Contract / Storage Identifier | Live Verification / Manifest |
 | :--- | :---: | :--- | :--- |
 | **Future Vanity Fair Club (FVFC)** | `ERC-721` (Ethereum) | [`0xcA32FA34ef54B6F69dC08fa401a911F7Dd3dD9cb`](https://etherscan.io/address/0xcA32FA34ef54B6F69dC08fa401a911F7Dd3dD9cb) | [Etherscan Explorer](https://etherscan.io/address/0xcA32FA34ef54B6F69dC08fa401a911F7Dd3dD9cb) |
 | **NFT Metadata (10,000 JSON)** | `IPFS` / `Filecoin` | [`ipfs://bafybeiaunupclh3muvk24f2aknamzpurm6qjpydmtqf7dj5wcrcyxbu3ry/`](https://media.futurevanityfairclub.com/ipfs/bafybeiaunupclh3muvk24f2aknamzpurm6qjpydmtqf7dj5wcrcyxbu3ry/) | [`View 10k Metadata Root`](https://media.futurevanityfairclub.com/ipfs/bafybeiaunupclh3muvk24f2aknamzpurm6qjpydmtqf7dj5wcrcyxbu3ry/) |
 | **Artwork Storage (4,000 × 4,000)** | `IPFS` / `Filecoin` | [54 CAR Packages (50.6 GB Vani Artworks)](https://github.com/futurevanityfairclub/futurevanityfairclub/blob/main/PROVENANCE.md) | [PROVENANCE Manifest](https://github.com/futurevanityfairclub/futurevanityfairclub/blob/main/PROVENANCE.md) |
-| **Global Media Gateway** | `Cloudflare Edge` | `media.futurevanityfairclub.com` | [`Gateway Health Check`](https://media.futurevanityfairclub.com/health) |
+| **Global Media Gateway** | `Global Edge Network` | `media.futurevanityfairclub.com` | [`Gateway Health Check`](https://media.futurevanityfairclub.com/health) |
 
 ---
 
@@ -74,7 +74,7 @@ Official smart contracts, decentralized storage, and media distribution infrastr
 - **Styling & Motion**: Tailwind CSS, Motion (v13), Radix UI, Phosphor Icons, Lucide
 - **Web3 & Contracts**: Thirdweb SDK v5, Viem, 0xSplits Protocol (Splits Warehouse v2)
 - **AI & Agent-Native**: WebMCP Protocol (W3C draft / `navigator.modelContext`) enabling AI browser agents to discover verified official links, query NFT metadata, and inspect contract states via structured tools
-- **Decentralized Storage & Media CDN**: Filecoin Network (Mainnet), IPFS, Cloudflare Workers Global Edge Media Gateway (with 1-year immutable caching)
+- **Decentralized Storage & Media CDN**: Filecoin Network (Mainnet), IPFS, Global Edge Media Gateway (with 1-year immutable caching)
 - **Reliability & Observability**: On-Chain Transaction & Activity Monitoring, Automated Media Probes, Edge State Caching, Synthetic Uptime & Runtime Observability
 
 ---
